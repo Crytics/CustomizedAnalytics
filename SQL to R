@@ -1,0 +1,19 @@
+setInternet2(TRUE)
+library(RODBC)
+
+datebyweek <- 
+
+"select CAST(min(Date) as varchar(20)) as Date,
+SUM([1st Login]) as Login
+FROM app_login_master
+where Date>='2012/10/01'
+group by DATEPART(MONTH,[Date])
+--Having COUNT(DISTINCT[Date])=31
+order by [Date]
+"
+
+dc <- odbcConnect(dsn="KSQL")
+app <- sqlQuery(dc, datebyweek)
+str(app)
+
+app.ts <- ts(app$Login, start=as.Date(2012/10/01), frequency=48)
