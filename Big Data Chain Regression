@@ -1,0 +1,29 @@
+#Perform single variable regressions on each variable against target using laptop
+BigDataChainReg <- function(data, target=TGT, maxIt=5){
+  
+  suppressWarnings(rm(model.table))
+  names <- rxGetVarNames(data)
+  names <-names[!names==target]  
+  
+  for (i in 1:length(names[!names==target])){ 
+      names[!names==target]
+      model.name <- names[i]
+      model.form.text <- paste(paste0(target, " ~"), paste(model.name,collapse=" + "),collapse=" ")
+      model.form <- as.formula(model.form.text)
+      model <- try(rxLogit(model.form, data=outfile, maxIterations=maxIt), silent=TRUE)
+    
+    if(is(model,"try-error")){next}
+        s <- summary(model)
+        sdf <- as.data.frame(coef(s))
+        sdfc <- sdf[2:nrow(sdf),1:4]
+    
+    if(exists("model.table")==FALSE){           
+      model.table <- sdfc
+        }else{model.table <- rbind(model.table,sdfc)}
+    
+    if(i==length(names[!names=="TGT"])){
+        print(model.table)
+        }else{next}
+  }
+return(model.table)
+}
