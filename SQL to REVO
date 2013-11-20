@@ -1,0 +1,38 @@
+#Set proxy server
+setInternet2(TRUE)
+
+#Load necessary packages
+library(fpp)
+library(xts)
+library(zoo)
+library(ggplot2)
+library(reshape)
+library(RODBC)
+
+#Create SQL Query
+query <-"
+	set transaction isolation level read uncommitted
+	select reg_date,
+	count(order_number) as order_cnt
+	from
+	(
+	select convert(varchar(10), reg_date, 111) as reg_date, order_number
+	from jon_test3.dbo.basket_orderer2_filtered_new
+	where reg_date>='2012-01-01' and reg_date<'2013-08-01'
+	)x
+	group by reg_date
+	order by reg_date
+	"
+
+#Connect to SQL Server and extract SQL data
+connstring <- paste("DSN=RSQL","Uid=adam.nguyen", sep = ";")
+myodbcSource <- RxOdbcData(sqlQuery =query, connectionString = connstring)
+myXdfFileName <- file.path(tempdir(), "importedMySQLData.xdf")
+rxImport(inData=myodbcSource, outFile="order_timeseries.xdf", overwrite=TRUE)
+
+#Check data from SQL
+rxGetInfoXdf(file="order_timeseries.xdf", getVarInfo=TRUE)
+rxGetInfoXdf("order_timeseries.xdf", numRows=999999999,startRow=1)
+
+#Create dataframe from XDF for time series
+orders <- rxGetInfoXdf("order_timeseries.xdf", numRows=999999999,startRow=1)
