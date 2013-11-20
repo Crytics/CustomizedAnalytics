@@ -1,0 +1,154 @@
+##Import data and create forecasting model
+
+#Graphic Source: http://fishyoperations.com/holtwinters-forecast-using-ggplot.html
+#ggplot2: http://docs.ggplot2.org/current/scale_continuous.html
+
+#install necessary packages
+install.packages("fpp")
+install.packages("xts")
+install.packages("zoo")
+install.packages("ggplot2")
+install.packages("lattice")
+install.packages("reshape")
+install.packages("jpeg")
+install.packages("graphics")
+install.packages("grid")
+install.packages("chron")
+install.packages("R2PPT")
+
+#Unlock download channel through server proxy
+setInternet2(TRUE)
+Sys.setenv(TZ='UTC')
+Sys.time()
+setwd("C:/Users/adam.nguyen/Desktop/Useful R/WorkingDirectory/Rcard")
+
+#Load necessary packages
+library(fpp)
+library(xts)
+library(zoo)
+library(ggplot2)
+library(lattice)
+library(reshape)
+library(jpeg)
+library(graphics)
+library(grid)
+library(scales)
+library(colorspace)
+library(chron)
+library(scales)
+#library(R2PPT)
+
+
+#Import Data
+rcard <- read.table("C:/Users/adam.nguyen/Desktop/Useful R/WorkingDirectory/Rcard/yahoo.csv", header=FALSE, stringsAsFactors=FALSE, sep=",")
+colnames(rcard) <- c("date","gms")
+head(rcard)
+tail(rcard)
+
+#Create time series with index
+rcard.ts <- xts(rcard$gms, as.Date(1:length(rcard$gms), frequency=7, origin="2013-07-31", tz="UTC"))
+names(rcard.ts) <- c("gms")
+head(rcard.ts)
+tail(rcard.ts)
+
+
+##Convert sum to monthly data
+#rcard.ts.monthly <- aggregate(rcard.ts$gms, as.yearmon, FUN = mean)
+
+#Trim incomplete month
+##rcard.ts.monthly <- rcard.ts.monthly[1:(length(rcard.ts.monthly)-1),1]
+
+#Check data
+#head(rcard.ts.monthly)
+str(rcard.ts)
+summary(rcard.ts)
+
+#Regular plot
+rcard.ts2 <- ts(rcard.ts, frequency=7)
+
+#rcard.ts2 <- ts(rcard.ts.monthly, start=c(2011,1), frequency=12)
+
+plot(rcard.ts2)
+#plot(stl(rcard.ts2, s.window="periodic"))
+
+#Holt-Winters Filtering
+rcard.hw <- HoltWinters(rcard.ts2)
+rcard.fcast <- predict(rcard.hw, n.ahead=14, prediction.interval=TRUE, level=0.95)
+plot(rcard.hw, rcard.fcast)
+
+
+##Create Holt-Winters Plotting Function via Time Series object
+HWplot<-function(ts_object, n.ahead=4, CI=.95, error.ribbon='steelblue', line.size=1.5, start="2013-08-01", aggregate.date=7, date.format='%Y-%b-%d'){
+  
+  hw_object <-HoltWinters(rcard.ts2)
+  forecast <- predict(hw_object, n.ahead=12, prediction.interval=T, level=.95)
+  for_values<-data.frame(time=round(time(forecast), 3), value_forecast=as.data.frame(forecast)$fit, dev=as.data.frame(forecast)$upr-as.data.frame(forecast)$fit)
+  fitted_values<-data.frame(time=round(time(hw_object$fitted), 3), value_fitted=as.data.frame(hw_object$fitted)$xhat)
+  actual_values<-data.frame(time=round(time(hw_object$x), 3), Actual=c(hw_object$x))
+  
+  graphset<-merge(actual_values, fitted_values, by='time', all=TRUE)  
+  graphset<-merge(graphset, for_values, all=TRUE, by='time')  
+  graphset[is.na(graphset$dev), ]$dev<-0
+  graphset$Fitted<-c(rep(NA, NROW(graphset)-(NROW(for_values) + NROW(fitted_values))), fitted_values$value_fitted, for_values$value_forecast)
+  graphset.melt<-melt(graphset[, c('time', 'Actual', 'Fitted')], id='time')
+  
+  ##Create time breaks for x-axis
+  xs <- as.Date(start) + 0:(length(unique(graphset.melt$time))-1) 
+  xs <- as.Date(start) + aggregate.date*(0:round((length(unique(graphset.melt$time))-1)/aggregate.date))
+  timeform <- format(xs, date.format)
+  
+  ##Create data breaks for y-axis
+  ybreaks <- c(seq(0,10,by=2))*10000000
+  ylabs <- paste(ybreaks/10^6,"MM",sep="")	
+  
+  
+  p <- ggplot(graphset.melt, aes(x=time, y=value)) + theme_bw(base_size = 14, base_family = "") + theme(legend.title = element_text(colour="black", size=16, face="bold"), legend.position='top', plot.margin = unit(c(0,0,0,0), "cm"), axis.text.x=element_text(angle=60, hjust=1, size=18), axis.title.x=element_text(size=24), axis.text.y = element_text(size=18), axis.title.y=element_text(size=24)) + coord_cartesian(xlim=c(min(graphset.melt$time),max(graphset.melt$time))) + geom_ribbon(data=graphset, aes(x=time, y=Fitted, ymin=Fitted-dev, ymax=Fitted + dev), alpha=.5, fill="steelblue") + geom_line(aes(colour=variable), size=1.25) + geom_vline(x=max(actual_values$time), lty=2)  + scale_colour_manual("Legend", values = c("purple", "black")) + scale_x_discrete(breaks = 1:length(timeform), labels=c(timeform)) + scale_y_continuous(breaks=ybreaks, labels = ylabs) + geom_smooth(se=.95, method = "loess")
+  
+  return(p)
+}
+
+##Add labels and plot
+yahoo <- HWplot(rcard.ts2) + labs(title="", x="Weekly Spending Trend", y="RCard Spending on Yahoo (JPY)")
+plot(yahoo)
+
+#Export data to CSV
+write.csv(as.data.frame(rcard.fcast), file = "rfcast.csv")
+
+jpeg("YahooForecast.jpg")
+
+#myPres<-PPT.Init(visible=TRUE)
+#myPres<-PPT.AddBlankSlide(myPres)
+#PPT.AddGraphicstoSlide(myPres, size = c(10, 10, 700, 500), dev.out.type = "jpeg")
+
+##Evaluate Model
+
+#Create residuals
+res <- residuals(rcard.hw)
+
+#Box.test
+Box.test(res)
+
+#Residual Histogram
+hist(res)
+
+#Acf Plot
+tsdisplay(rcard.ts2)
+
+
+
+#Axis labels function
+get_breaks <-  function(data, ticks, magnitude, decimals, units){
+  brk_val <- quantile(data, probs = seq(0, 1, 1/ticks), na.rm =TRUE)
+  brk_lab <- paste(round(brk_val/magnitude, digits=decimals), units, sep="")
+  df <- data.frame(matrix(NA, nrow=1, ncol=ticks+1))
+  names(df) <- brk_lab
+  df[1,] <- brk_val
+  print(df)
+}
+
+get_breaks(seq(0,100,), 10, 10^6, 2, "MM")
+
+
+#Designate breaks
+breaksx <- get_breaks(data=graph$data$time, ticks=5, magnitude=1, decimals=1, units="")
+breaksy <- get_breaks(data=graph$data$value, ticks=5, magnitude=10^6, decimals=2, units="MM")
