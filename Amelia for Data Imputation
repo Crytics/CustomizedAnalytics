@@ -1,0 +1,146 @@
+##Amelia Walkthrough
+#http://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf
+#The only variables that should be used in this analysis are 
+
+
+#Set Directory
+setInternet2(TRUE)
+Sys.setenv(TZ='UTC')
+Sys.time()
+myfolder <- "C:/Users/adam.nguyen/Desktop/Useful R/"
+setwd(myfolder)
+getwd()
+source(paste(c(myfolder,"library.forecast.txt"),collapse="")) #Get library
+
+data(freetrade)
+str(freetrade)
+summary(freetrade)
+
+#Create factors for an rxLinMod
+freetrade2 <- rxFactors(inData=freetrade, factorInfo=list("country"))
+
+#LM Regression
+ft.lm <- lm(tariff~polity+pop+gdp.pc+year+country, data=freetrade)
+
+#RX Regression
+ft.rx <- rxLinMod(tariff~polity+pop+gdp.pc+year+country, data=freetrade2, dropFirst=TRUE)
+
+summary(ft.lm)
+summary(ft.rx)
+str(ft.lm)
+plot(ft.lm$fit)
+lines(ft.lm$fit)
+
+a.out <- amelia(freetrade, m = 5, ts = "year", cs = "country")
+str(a.out)
+hist(a.out$imputations[[3]]$tariff, col="grey", border="white")
+# save(a.out, file = "imputations.RData") #save imputed data
+
+#Combining Multiple Amelia Runs
+a.out.more <- amelia(freetrade, m = 10, ts = "year", cs = "country", p2s=0)
+a.out.more
+
+a.out.more <- ameliabind(a.out, a.out.more)
+a.out.more
+
+#Parallel running example
+b <-round(runif(1,min=1111,max=9999))
+random.name <- paste("am",b,sep="")
+amelia <- write.amelia(obj=a.out, file.stem = random.name)
+
+amelia(freetrade, m = 1, ts = "year", cs = "country", p2s = 2)
+
+#Missing integer values should be allowed to be imputed as continuous
+table(a.out$imputations[[3]]$polity)
+table(freetrade$polity)
+length(na.omit(freetrade$polity))
+length(na.omit(a.out$imputations[[3]]$polity))
+freetrade$polity
+a.out$imputations[[3]]$polity
+
+#Ordinal imputation for Poisson and logistic regression munging
+a.out1 <- amelia(freetrade, m = 5, ts = "year", cs = "country", ords ="polity", p2s = 0)
+table(a.out1$imputations[[3]]$polity)
+
+#Nominal imputations
+table(a.out1$imputations[[3]]$signed)
+a.out2 <- amelia(freetrade, m = 5, ts = "year", cs = "country", noms = "signed", p2s = 0)
+table(a.out2$imputations[[3]]$signed)
+
+par(mfrow=c(2,2))
+hist(freetrade$tariff, col="steelblue", border="white")
+hist(a.out2$imputations[[3]]$tariff, col="steelblue", border="white")
+hist(log(freetrade$tariff), col="steelblue", border="white")
+hist(log(a.out2$imputations[[3]]$tariff), col="steelblue", border="white")
+
+#Identity variables can be omitted from imputation such as Identity
+amelia(freetrade, idvars = c("year", "country"))
+a.out2 <- amelia(freetrade, idvars = c("year"))
+
+#Time-Series imputations
+#CS stands for cross-section and indicate categoricals that you would expect to have same patterns over time
+par(mfrow=c(1,1))
+plot(freetrade$year, freetrade$pop)
+a.out2 <- amelia(freetrade, ts = "year", cs = "country", polytime = 2)
+
+#To impute with trends-specific to cross-sectional units, set intercs=TRUE
+a.out.time <- amelia(freetrade, ts = "year", cs = "country", polytime = 2, intercs = TRUE, p2s = 2)
+
+par(mfrow=c(2,1))
+tscsPlot(a.out, cs = "Malaysia", main = "Malaysia (no time settings)", var = "tariff", ylim = c(-10, 60))
+tscsPlot(a.out.time, cs = "Malaysia", main = "Malaysia (with time settings)", var = "tariff", ylim = c(-10, 60))
+
+#Alternative
+#Time Series imputation using lags and leads since we expect some correlation between lags and leads to present value
+a.out2 <- amelia(freetrade, ts = "year", cs = "country", lags = "tariff", leads = "tariff")
+
+#(Page 22) Ridge priors for high missingness, small n's, or large correlations
+
+#Check if imputations make sense
+tscsPlot(a.out.time, cs = "Malaysia", main = "Malaysia (with time settings)", var = "tariff", ylim = c(-10, 60))
+plot(a.out, which.vars = 3:6)
+compare.density(a.out, var = "signed")
+overimpute(a.out, var = "tariff")
+
+
+par(mfrow=c(1,2))
+disperse(a.out, dims = 1, m = 5)
+disperse(a.out, dims = 2, m = 5)
+overimpute(a.out, var = "tariff")
+
+#Explore missingness of a dataset with a missmap
+missmap(a.out)
+
+#transform imputed values
+a.out <- transform(a.out, lgdp = log(gdp.pc))
+head(a.out$imputations[[1]][,c("country", "year","gdp.pc", "lgdp")])
+#create interaciton variable
+a.out <- transform(a.out, pol_gdp = polity * gdp.pc)
+summary(a.out)
+
+#Create an Analysis Model and run original vs imputed datasets
+require(Zelig)
+library(Zelig)
+z.out <- zelig(tariff ~ polity + pop + gdp.pc + year + country, data = freetrade, model="ls")
+summary(z.out)
+
+z.out.imp <- zelig(tariff ~ polity + pop + gdp.pc + year + country, data = a.out$imputations, model="ls")
+summary(z.out.imp)
+
+#Extract imputation list and run model over each imputed list and then combine results
+b.out<-NULL
+se.out<-NULL
+
+#Creates a null object and rbinds that null object to a dataframe
+for(i in 1:a.out$m) {
+	ols.out <- lm(tariff ~ polity + pop + gdp.pc, data = a.out$imputations[[i]])
+	b.out <- rbind(b.out, ols.out$coef)
+	se.out <- rbind(se.out, coef(summary(ols.out))[,2])
+}
+combined.results <-  mi.meld(q = b.out, se = se.out)
+str(combined.results)
+
+#Write amelia file somewhere
+write.amelia(a.out, separate = FALSE, file.stem = "C:/Users/adam.nguyen/Desktop/", format = "csv")
+
+AmeliaView()
