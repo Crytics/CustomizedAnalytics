@@ -144,3 +144,18 @@ str(combined.results)
 write.amelia(a.out, separate = FALSE, file.stem = "C:/Users/adam.nguyen/Desktop/", format = "csv")
 
 AmeliaView()
+
+
+
+(x <- rep(letters,2)) 
+values <- c("a", "b") 
+repl <- c("aa", "A", "B", NA, "D", "zz") 
+(repl.tab <- cbind(values, repl)) 
+
+indx <- ?match(x, values, nomatch = x) 
+
+indx <- x[!match(x, values)] 
+
+
+x[indx != 0] <- repl.tab[indx, 2] 
+
