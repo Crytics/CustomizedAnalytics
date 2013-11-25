@@ -1,4 +1,4 @@
-#Perform automated parallel processed forward selection regressions on variables against target
+#Perform semi-automated singular feature selection regressions for big data
 SingularFS <- function(data, target=TGT, maxIt=5){
   suppressWarnings(rm(model.table))
   names <- rxGetVarNames(data)
