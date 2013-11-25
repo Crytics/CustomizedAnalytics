@@ -1,5 +1,5 @@
 #Perform automated parallel processed forward selection regressions on variables against target
-BigDataChainReg <- function(data, target=TGT, maxIt=5){
+ForwardSelect <- function(data, target=TGT, maxIt=5){
   suppressWarnings(rm(model.table))
   names <- rxGetVarNames(data)
   names <-names[!names==target]  
