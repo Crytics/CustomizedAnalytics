@@ -2,7 +2,7 @@
 SingularFS <- function(data, target=TGT, maxIt=5){
   suppressWarnings(rm(model.table))
   names <- rxGetVarNames(data)
-  names <-names[!names==target]  
+  names <-names[!names==target]
   
   for (i in 1:length(names[!names==target])){ 
       names[!names==target]
