@@ -1,7 +1,14 @@
-##Amelia Walkthrough
-#http://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf
-#The only variables that should be used in this analysis are 
+############################################
+# Multiple Imputation via Amelia
+# --------------------------------------------
+# Created by  : Adam Nguyen
+# Updated by  : Adam Nguyen
+# Created at  : 11/17/2013
+# Updated at  : xx/xx/xxxx
+# Description : Approximate in Missing Data
+############################################
 
+#http://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf
 
 #Set Directory
 setInternet2(TRUE)
