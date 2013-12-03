@@ -1,4 +1,4 @@
 CustomizedAnalytics
 ===================
 
-Generally useful analysis methods
+Generally useful munging methods and tool scripts
