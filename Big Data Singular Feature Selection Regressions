@@ -1,3 +1,13 @@
+###################################
+# Big Data Regression Chains
+# ---------------------------------
+# Started by  : Adam Nguyen
+# Updated by  : Adam Nguyen
+# Created at  : 06/27/2013
+# Updated at  : 11/27/2013
+# Description : Data Munging
+###################################
+
 #Perform semi-automated singular feature selection regressions for big data
 SingularFS <- function(data, target=TGT, maxIt=5){
   suppressWarnings(rm(model.table))
