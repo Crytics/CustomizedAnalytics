@@ -1,86 +1,79 @@
 ###################################
 # Making Categorical Values
 # ---------------------------------
-# Started by  : Kanta Kinoshita
+# Started by  : Quan
 # Updated by  : Adam Nguyen
-# Created at  : 06/27/2013
-# Updated at  : 11/27/2013
+# Created at  : 12/10/2013
+# Updated at  : 12/15/2013
 # Description : Data Munging
 ###################################
 
-### Get break points
-get_breaks <- function(vals, num_ctgry){
-  ## break points
-  brks <- quantile(vals,seq(0,1,1/num_ctgry))
-  
-  ## adjust
-  for (i in 2:length(brks)) {
-    if (brks[i] <= brks[i-1]) {
-      brks[i] <- brks[i-1] + 1/10000000000000
-    }
-  }
-  
-  return(brks)
-}
+#simulation
+values <- NULL
+values$data <- as.data.frame(abs(rnorm(100,1,5000000)))
 
-### Transform data by "number of category"
-mk_ctgry_quantile <- function(vals, num_ctgry) {
-  ## break points
-  brks <- get_breaks(vals,num_ctgry)
-  
-  ## trans to categorical values
-  # b1 <= x < b2
-  ctgry_vals <- cut(vals, brks, labels=FALSE, include.lowest=FALSE, right=FALSE)
-  ctgry_vals[which(is.na(ctgry_vals))] = length(brks) - 1
-  
-  return(ctgry_vals)
-}
-
-### Transform data by break points
-mk_ctgry_thval <- function(vals, thval_seq, within_flg = FALSE) {
-  ## break points
-  if(!within_flg){
-    thvals <- append(append(thval_seq,-Inf,0),Inf)
-  }
-  
-  
-  ## adjust
-  for (i in 2:length(thvals)) {
-    if (thvals[i] <= thvals[i-1]) {
-      thvals[i] <- thvals[i-1] + 1/10000000000000
-    }
-  }
-  
-  ctgry_vals <- cut(vals, thvals, labels=FALSE, include.lowest=FALSE, right=FALSE)
-  ctgry_vals[which(is.na(ctgry_vals))] = length(thvals) - 1
-  
-  return(ctgry_vals)
-}
+breaks <- 10
 
 
-### Quick Label Breaks for ggplot2
+val_breaks(values, breaks)
+
+# Quick Label Breaks for ggplot2
 get_label_breaks <-  function(data, ticks, magnitude, decimals, units){
-  ##Get quantile values
   brk_val <- quantile(data, probs = seq(0, 1, 1/ticks), na.rm =TRUE)
   brk_lab <- paste(round(brk_val/magnitude, digits=decimals), units, sep="")
-  label_vals <- data.frame(matrix(NA, nrow=1, ncol=ticks+1))
-  names(label_vals) <- brk_lab
-  label_vals[1,] <- brk_val 
-  print(label_vals)
+  label_values <- data.frame(matrix(NA, nrow=1, ncol=ticks+1))
+  names(label_values) <- brk_lab
+  label_values[1,] <- brk_val 
+  print(label_values)
 }
 
 
-###Discretizing Big Data (Requires manual adjustment)
+# Create break points
+val_breaks <- function(values, breaks){
+  brks <- ?quantile(values$data, seq(0,1,1/breaks))
+  for (i in 2:length(brks)) {
+    if (brks[i] <= brks[i-1]) {
+  brks[i] <- brks[i-1] + 1/10^10
+    }
+  }
+return(brks)
+}
+
+# Transform data by categories
+val_quantile <- function(values, breaks) {
+  brks <- get_breaks(values, breaks)
+  categorical <- cut(values, brks, labels=FALSE, include.lowest=FALSE, right=FALSE)
+  categorical[which(is.na(categorical))] = length(brks) - 1  
+  return(categorical)
+}
+
+# Transform data by break points
+tval <- function(values, tval_seq, within_flg = FALSE) {
+  if(!within_flg){
+    tvalues <- append(append(tval_seq,-Inf,0),Inf)
+  }
+  for (i in 2:length(tvalues)) {
+    if (tvalues[i] <= tvalues[i-1]) {
+      tvalues[i] <- tvalues[i-1] + 1/10^10
+    }
+  }
+  categorical <- cut(values, tvalues, labels=FALSE, include.lowest=FALSE, right=FALSE)
+  categorical[which(is.na(categorical))] = length(tvalues) - 1
+return(categorical)
+}
+
+# Discretize Big Data (Requires manual adjustment)
 test <- rxGetInfo(data=data, numRows=10000, startRow=1)
 data <- "file.xdf"
 variables <- c("a","b","c")
 
-rxQuant <- function(data, variables){
+rxQuant <- function(data, variables, breaks){
     prime <- rxGetInfo(data=data, numRows=10000, startRow=1)
     for (i in 1:length(variables){
-        form <- variables[1]
-        name <- paste(variables[1],"_q", sep="")
-        rxDataStep(inData=data, transforms = list(data_q = cut(data, breaks=c(quantile(data, probs=seq(0,1,by=.2), na.rm=TRUE)),labels=c(1:5))), overwrite=TRUE)
+        form <- variables[i]
+        name <- paste(variables[i],"_q", sep="")
+        rxDataStep(inData=data, transforms = list(paste0(variables[i], "_q") = cut(variables[i], breaks=c(quantile(variables[i], probs=seq(0,1,by=1/breaks), na.rm=TRUE)),labels=c(1:breaks))), overwrite=TRUE)
         test.xsf <- RxXdfData(test)
-        rxDataStep(inData=data, varsToDrop=NULL, transforms = list(GMS_3m_q = cut(GMS_3m, breaks=c(quantile(GMS_3m, probs=seq(0,1,by=.2), na.rm=TRUE)),labels=c(1:5), ordered_result=c(1:5))), overwrite=TRUE)
+        rxDataStep(inData=data, varsToDrop=NULL, transforms = list(paste0(variables[i], "_q") = cut(variables[i], breaks=c(quantile(variables[i], probs=seq(0,1,by=1/breaks), na.rm=TRUE)),labels=c(1:breaks), ordered_result=c(1:breaks))), overwrite=TRUE)
 }
+
