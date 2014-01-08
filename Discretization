@@ -11,11 +11,8 @@
 #simulation
 values <- NULL
 values$data <- as.data.frame(abs(rnorm(100,1,5000000)))
-
 breaks <- 10
 
-
-val_breaks(values, breaks)
 
 # Quick Label Breaks for ggplot2
 get_label_breaks <-  function(data, ticks, magnitude, decimals, units){
