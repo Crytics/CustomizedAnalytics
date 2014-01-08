@@ -30,7 +30,7 @@ get_label_breaks <-  function(data, ticks, magnitude, decimals, units){
 
 # Create break points
 val_breaks <- function(values, breaks){
-  brks <- ?quantile(values$data, seq(0,1,1/breaks))
+  brks <- quantile(values$data, seq(0,1,1/breaks))
   for (i in 2:length(brks)) {
     if (brks[i] <= brks[i-1]) {
   brks[i] <- brks[i-1] + 1/10^10
