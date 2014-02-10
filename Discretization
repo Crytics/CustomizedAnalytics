@@ -74,3 +74,8 @@ rxQuant <- function(data, variables, breaks){
         rxDataStep(inData=data, varsToDrop=NULL, transforms = list(paste0(variables[i], "_q") = cut(variables[i], breaks=c(quantile(variables[i], probs=seq(0,1,by=1/breaks), na.rm=TRUE)),labels=c(1:breaks), ordered_result=c(1:breaks))), overwrite=TRUE)
 }
 
+# Normalization
+normalize <- function(x) { 
+   x <- sweep(x, 2, apply(x, 2, min)) 
+   sweep(x, 2, apply(x, 2, max), "/") 
+} 
