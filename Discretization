@@ -81,11 +81,11 @@ normalize <- function(x) {
 } 
 
 
-# Create training, test, and validation sets
+# Create Training, Test, and Validation Sets
 splitdf <- function(dataframe, train = train_share, test = 1, seed = NULL) {
     if ( ! is.null(seed)) set.seed(seed)
    	index.total <- 1:nrow(data)
-    index.train <- sample(index.total, trunc(round(length(index.total) * train)))
+    index.train <- sample(index.total, trunc(length(index.total) * train))
     index.test <- sample(index.total[-index.train], trunc(ceiling(length(index.total) * test)))
     trainset <- dataframe[index.train, ]
 	testset <- dataframe[index.test, ]
