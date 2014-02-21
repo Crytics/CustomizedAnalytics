@@ -81,7 +81,7 @@ normalize <- function(x) {
 } 
 
 
-# Create Training, Test, and Validation Sets
+# Create training, test, and validation sets
 splitdf <- function(dataframe, train = train_share, test = 1, seed = NULL) {
     if ( ! is.null(seed)) set.seed(seed)
    	index.total <- 1:nrow(data)
