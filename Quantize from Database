@@ -1,0 +1,53 @@
+###########################################
+# Quantize Big Data
+# ---------------------------------
+# Created by  : Adam Nguyen
+# Updated by  : Adam Nguyen
+# Created at  : 04/01/2014
+# Updated at  : xx/xx/xxxx
+# Description : TeradataR Forecasting
+###########################################
+
+#Clear Environment
+#rm(list = ls(all = TRUE))
+#update.packages(ask = FALSE, dependencies = c('Suggests'))
+
+#Names of working directory and files
+myfolder <- "C:/Users/adam.nguyen/Desktop/teradataR/"
+
+#Set Directory
+setInternet2(TRUE)
+Sys.setenv(language = "en", tz = 'UTC')
+options(max.print = 2000)
+setwd(myfolder)
+source(paste(c("C:/Users/adam.nguyen/Desktop/GH/", "library.R"), collapse = "")) #Get library
+source(paste(c("C:/Users/adam.nguyen/Desktop/GH/", "break_munging.txt"), collapse = "")) #Get tools
+
+#Load Project Specific libraries
+library("reshape2")
+library("hts")
+
+#Establish Teradata Connection
+#RShowDoc(“teradataR”, package = “teradataR”) 
+Teradata.Connect <- tdConnect("Teradata2750")
+
+#Query Teradata via R
+data <- tdQuery("**QUERY**")
+
+#Data Sanity Checks
+dim.td.data.frame(data) #Check dimensions
+dim(data)
+#td.values(as.td.data.frame(data), gms) #Assess data integrity
+summary(data) #Summarize data
+head(data[, -1]) #See features
+
+#Quantilize
+data.quant <- apply(data[, -1], 2, function(x) mk_ctgry_quantile(x, 4))
+easy_id <- data[, 1]
+data.quant <- cbind(easy_id, data.quant)
+head(data.quant)
+str(data.quant)
+
+write.table(data.quant, "temp.csv", sep = ",")
+
+
