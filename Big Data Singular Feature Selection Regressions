@@ -43,4 +43,5 @@ SingularFS <- function(data, target=TGT, maxIt=5){
   }
 
 return(model.table)
+print(model.table)
 }
