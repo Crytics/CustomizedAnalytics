@@ -1,0 +1,2778 @@
+{
+  "nodes": [
+    {
+      "first": "Stars",
+      "second": "Beirut",
+      "third": "The Magnetic Fields",
+      "name": "Belle and Sebastian",
+      "group": 1
+    },
+    {
+      "first": "Morrissey",
+      "second": "The Cure",
+      "third": "Echo and the Bunnymen",
+      "name": "The Smiths",
+      "group": 1
+    },
+    {
+      "first": "Belle and Sebastian",
+      "second": "Stars",
+      "third": "Broken Social Scene",
+      "name": "The Magnetic Fields",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "P:ano",
+      "group": 1
+    },
+    {
+      "first": "Echo and the Bunnymen",
+      "second": "Joy Division",
+      "third": "The Psychedelic Furs",
+      "name": "The Cure",
+      "group": 1
+    },
+    {
+      "first": "Broken Social Scene",
+      "second": "Metric",
+      "third": "Belle and Sebastian",
+      "name": "Stars",
+      "group": 1
+    },
+    {
+      "first": "NOFX",
+      "second": "Anti-Flag",
+      "third": "Rancid",
+      "name": "Bad Religion",
+      "group": 1
+    },
+    {
+      "first": "The Smiths",
+      "second": "Morrissey",
+      "third": "The Kinks",
+      "name": "Elvis Costello",
+      "group": 1
+    },
+    {
+      "first": "The Kinks",
+      "second": "Elvis Costello",
+      "third": "Radiohead",
+      "name": "The Beatles",
+      "group": 1
+    },
+    {
+      "first": "Broken Social Scene",
+      "second": "The Cure",
+      "third": "Morrissey",
+      "name": "Radiohead",
+      "group": 1
+    },
+    {
+      "first": "Pixies",
+      "second": "The Strokes",
+      "third": "The Velvet Underground",
+      "name": "Guided by Voices",
+      "group": 1
+    },
+    {
+      "first": "Bad Religion",
+      "second": "Anti-Flag",
+      "third": "Rancid",
+      "name": "NOFX",
+      "group": 1
+    },
+    {
+      "first": "Pixies",
+      "second": "Guided by Voices",
+      "third": "The Smiths",
+      "name": "The Strokes",
+      "group": 1
+    },
+    {
+      "first": "The Smiths",
+      "second": "Elvis Costello",
+      "third": "The Cure",
+      "name": "Morrissey",
+      "group": 1
+    },
+    {
+      "first": "Bauhaus",
+      "second": "The Cure",
+      "third": "Echo and the Bunnymen",
+      "name": "Joy Division",
+      "group": 1
+    },
+    {
+      "first": "Depeche Mode",
+      "second": "Pet Shop Boys",
+      "third": "Echo and the Bunnymen",
+      "name": "New Order",
+      "group": 1
+    },
+    {
+      "first": "Gary Numan",
+      "second": "New Order",
+      "third": "Pet Shop Boys",
+      "name": "Depeche Mode",
+      "group": 1
+    },
+    {
+      "first": "Raekwon",
+      "second": "Ghostface Killah",
+      "third": "Masta Killa",
+      "name": "Wu-Tang Clan",
+      "group": 1
+    },
+    {
+      "first": "Metric",
+      "second": "Broken Social Scene",
+      "third": "Stars",
+      "name": "The New Pornographers",
+      "group": 1
+    },
+    {
+      "first": "Bob Marley",
+      "second": "Black Uhuru",
+      "third": "None",
+      "name": "Peter Tosh",
+      "group": 1
+    },
+    {
+      "first": "Dead Can Dance",
+      "second": "Echo and the Bunnymen",
+      "third": "Lowlife",
+      "name": "Cocteau Twins",
+      "group": 1
+    },
+    {
+      "first": "Bauhaus",
+      "second": "And Also The Trees",
+      "third": "Joy Division",
+      "name": "The Sisters of Mercy",
+      "group": 1
+    },
+    {
+      "first": "Joy Division",
+      "second": "And Also The Trees",
+      "third": "Bauhaus",
+      "name": "Lowlife",
+      "group": 1
+    },
+    {
+      "first": "Metric",
+      "second": "The Strokes",
+      "third": "Arcade Fire",
+      "name": "Tokyo Police Club",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Johann Sebastian Bach",
+      "group": 1
+    },
+    {
+      "first": "The Cure",
+      "second": "The Psychedelic Furs",
+      "third": "Joy Division",
+      "name": "Echo and the Bunnymen",
+      "group": 1
+    },
+    {
+      "first": "Belle and Sebastian",
+      "second": "The National",
+      "third": "Stars",
+      "name": "Beirut",
+      "group": 1
+    },
+    {
+      "first": "Depeche Mode",
+      "second": "Bauhaus",
+      "third": "The Cure",
+      "name": "Gary Numan",
+      "group": 1
+    },
+    {
+      "first": "Talking Heads",
+      "second": "Pixies",
+      "third": "The Magnetic Fields",
+      "name": "They Might Be Giants",
+      "group": 1
+    },
+    {
+      "first": "Boogie Down Productions",
+      "second": "Rakim",
+      "third": "Public Enemy",
+      "name": "KRS-One",
+      "group": 1
+    },
+    {
+      "first": "Bauhaus",
+      "second": "And Also The Trees",
+      "third": "The Cure",
+      "name": "Little Nemo",
+      "group": 1
+    },
+    {
+      "first": "NOFX",
+      "second": "Anti-Flag",
+      "third": "Operation Ivy",
+      "name": "Rancid",
+      "group": 1
+    },
+    {
+      "first": "dead prez",
+      "second": "None",
+      "third": "None",
+      "name": "The Coup",
+      "group": 1
+    },
+    {
+      "first": "Bauhaus",
+      "second": "The Sisters of Mercy",
+      "third": "Joy Division",
+      "name": "And Also The Trees",
+      "group": 1
+    },
+    {
+      "first": "New Order",
+      "second": "Depeche Mode",
+      "third": "Gary Numan",
+      "name": "Pet Shop Boys",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "No Kids",
+      "group": 1
+    },
+    {
+      "first": "Cocteau Twins",
+      "second": "None",
+      "third": "None",
+      "name": "Dead Can Dance",
+      "group": 1
+    },
+    {
+      "first": "Stars",
+      "second": "Broken Social Scene",
+      "third": "Tokyo Police Club",
+      "name": "Arcade Fire",
+      "group": 1
+    },
+    {
+      "first": "KRS-One",
+      "second": "Public Enemy",
+      "third": "The Coup",
+      "name": "dead prez",
+      "group": 1
+    },
+    {
+      "first": "Radiohead",
+      "second": "Cocteau Twins",
+      "third": "Morrissey",
+      "name": "Kate Bush",
+      "group": 1
+    },
+    {
+      "first": "Choking Victim",
+      "second": "Operation Ivy",
+      "third": "Rancid",
+      "name": "INDK",
+      "group": 1
+    },
+    {
+      "first": "The Magnetic Fields",
+      "second": "Kate Bush",
+      "third": "Belle and Sebastian",
+      "name": "The Divine Comedy",
+      "group": 1
+    },
+    {
+      "first": "Talking Heads",
+      "second": "Pixies",
+      "third": "The Strokes",
+      "name": "The Velvet Underground",
+      "group": 1
+    },
+    {
+      "first": "NOFX",
+      "second": "Bad Religion",
+      "third": "Rancid",
+      "name": "Anti-Flag",
+      "group": 1
+    },
+    {
+      "first": "Stars",
+      "second": "Radiohead",
+      "third": "Arcade Fire",
+      "name": "Broken Social Scene",
+      "group": 1
+    },
+    {
+      "first": "Tokyo Police Club",
+      "second": "Stars",
+      "third": "The New Pornographers",
+      "name": "Metric",
+      "group": 1
+    },
+    {
+      "first": "Public Image Ltd.",
+      "second": "Pixies",
+      "third": "The Velvet Underground",
+      "name": "Talking Heads",
+      "group": 1
+    },
+    {
+      "first": "Talking Heads",
+      "second": "Guided by Voices",
+      "third": "The Strokes",
+      "name": "Pixies",
+      "group": 1
+    },
+    {
+      "first": "The Psychedelic Furs",
+      "second": "Talking Heads",
+      "third": "Joy Division",
+      "name": "Public Image Ltd.",
+      "group": 1
+    },
+    {
+      "first": "The Psychedelic Furs",
+      "second": "Joy Division",
+      "third": "Bauhaus",
+      "name": "Sex Pistols",
+      "group": 1
+    },
+    {
+      "first": "Echo and the Bunnymen",
+      "second": "The Cure",
+      "third": "Public Image Ltd.",
+      "name": "The Psychedelic Furs",
+      "group": 1
+    },
+    {
+      "first": "Echo and the Bunnymen",
+      "second": "The Psychedelic Furs",
+      "third": "The Cure",
+      "name": "The Church",
+      "group": 1
+    },
+    {
+      "first": "Peter Tosh",
+      "second": "Bob Marley",
+      "third": "None",
+      "name": "Black Uhuru",
+      "group": 1
+    },
+    {
+      "first": "Peter Tosh",
+      "second": "Black Uhuru",
+      "third": "None",
+      "name": "Bob Marley",
+      "group": 1
+    },
+    {
+      "first": "De La Soul",
+      "second": "KRS-One",
+      "third": "Leaders of the New School",
+      "name": "A Tribe Called Quest",
+      "group": 1
+    },
+    {
+      "first": "Ghostface Killah",
+      "second": "Raekwon",
+      "third": "Wu-Tang Clan",
+      "name": "Busta Rhymes",
+      "group": 1
+    },
+    {
+      "first": "A Tribe Called Quest",
+      "second": "De La Soul",
+      "third": "Rakim",
+      "name": "Leaders of the New School",
+      "group": 1
+    },
+    {
+      "first": "INDK",
+      "second": "Operation Ivy",
+      "third": "Rancid",
+      "name": "Choking Victim",
+      "group": 1
+    },
+    {
+      "first": "Beirut",
+      "second": "The Strokes",
+      "third": "Arcade Fire",
+      "name": "The National",
+      "group": 1
+    },
+    {
+      "first": "Raekwon",
+      "second": "Wu-Tang Clan",
+      "third": "Busta Rhymes",
+      "name": "Ghostface Killah",
+      "group": 1
+    },
+    {
+      "first": "KRS-One",
+      "second": "Wu-Tang Clan",
+      "third": "Boogie Down Productions",
+      "name": "Rakim",
+      "group": 1
+    },
+    {
+      "first": "A Tribe Called Quest",
+      "second": "Public Enemy",
+      "third": "KRS-One",
+      "name": "De La Soul",
+      "group": 1
+    },
+    {
+      "first": "KRS-One",
+      "second": "Boogie Down Productions",
+      "third": "De La Soul",
+      "name": "Public Enemy",
+      "group": 1
+    },
+    {
+      "first": "Wu-Tang Clan",
+      "second": "Ghostface Killah",
+      "third": "Masta Killa",
+      "name": "Raekwon",
+      "group": 1
+    },
+    {
+      "first": "KRS-One",
+      "second": "Public Enemy",
+      "third": "Rakim",
+      "name": "Boogie Down Productions",
+      "group": 1
+    },
+    {
+      "first": "Rancid",
+      "second": "Catch 22",
+      "third": "NOFX",
+      "name": "Operation Ivy",
+      "group": 1
+    },
+    {
+      "first": "Rancid",
+      "second": "Operation Ivy",
+      "third": "NOFX",
+      "name": "Catch 22",
+      "group": 1
+    },
+    {
+      "first": "The Beatles",
+      "second": "Elvis Costello",
+      "third": "The Psychedelic Furs",
+      "name": "The Kinks",
+      "group": 1
+    },
+    {
+      "first": "The Sisters of Mercy",
+      "second": "Joy Division",
+      "third": "The Cure",
+      "name": "Bauhaus",
+      "group": 1
+    },
+    {
+      "first": "Raekwon",
+      "second": "Wu-Tang Clan",
+      "third": "Ghostface Killah",
+      "name": "Masta Killa",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "The Smiths",
+      "weight": 0.2727,
+      "source": 0,
+      "target": 1
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "The Magnetic Fields",
+      "weight": 0.3537,
+      "source": 0,
+      "target": 2
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Stars",
+      "weight": 0.4035,
+      "source": 0,
+      "target": 5
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Elvis Costello",
+      "weight": 0.2603,
+      "source": 0,
+      "target": 7
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Radiohead",
+      "weight": 0.3115,
+      "source": 0,
+      "target": 9
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Morrissey",
+      "weight": 0.2958,
+      "source": 0,
+      "target": 13
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "The New Pornographers",
+      "weight": 0.2642,
+      "source": 0,
+      "target": 18
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Beirut",
+      "weight": 0.377,
+      "source": 0,
+      "target": 26
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Arcade Fire",
+      "weight": 0.2759,
+      "source": 0,
+      "target": 37
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Kate Bush",
+      "weight": 0.2619,
+      "source": 0,
+      "target": 39
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "The Divine Comedy",
+      "weight": 0.2621,
+      "source": 0,
+      "target": 41
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "Broken Social Scene",
+      "weight": 0.3,
+      "source": 0,
+      "target": 44
+    },
+    {
+      "node1": "Belle and Sebastian",
+      "node2": "The National",
+      "weight": 0.2982,
+      "source": 0,
+      "target": 58
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Cure",
+      "weight": 0.4426,
+      "source": 1,
+      "target": 4
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Elvis Costello",
+      "weight": 0.3913,
+      "source": 1,
+      "target": 7
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Beatles",
+      "weight": 0.2754,
+      "source": 1,
+      "target": 8
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Radiohead",
+      "weight": 0.3125,
+      "source": 1,
+      "target": 9
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Strokes",
+      "weight": 0.322,
+      "source": 1,
+      "target": 12
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Morrissey",
+      "weight": 0.6842,
+      "source": 1,
+      "target": 13
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Joy Division",
+      "weight": 0.3158,
+      "source": 1,
+      "target": 14
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "New Order",
+      "weight": 0.4068,
+      "source": 1,
+      "target": 15
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Depeche Mode",
+      "weight": 0.2609,
+      "source": 1,
+      "target": 16
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.4259,
+      "source": 1,
+      "target": 25
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Pixies",
+      "weight": 0.2941,
+      "source": 1,
+      "target": 47
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2542,
+      "source": 1,
+      "target": 48
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3929,
+      "source": 1,
+      "target": 50
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Church",
+      "weight": 0.2727,
+      "source": 1,
+      "target": 51
+    },
+    {
+      "node1": "The Smiths",
+      "node2": "The Kinks",
+      "weight": 0.2609,
+      "source": 1,
+      "target": 67
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Stars",
+      "weight": 0.3537,
+      "source": 2,
+      "target": 5
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Radiohead",
+      "weight": 0.2614,
+      "source": 2,
+      "target": 9
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Guided by Voices",
+      "weight": 0.2738,
+      "source": 2,
+      "target": 10
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "The Strokes",
+      "weight": 0.2651,
+      "source": 2,
+      "target": 12
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Morrissey",
+      "weight": 0.268,
+      "source": 2,
+      "target": 13
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Beirut",
+      "weight": 0.2921,
+      "source": 2,
+      "target": 26
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "They Might Be Giants",
+      "weight": 0.2788,
+      "source": 2,
+      "target": 28
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "The Divine Comedy",
+      "weight": 0.2984,
+      "source": 2,
+      "target": 41
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Broken Social Scene",
+      "weight": 0.3133,
+      "source": 2,
+      "target": 44
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "Pixies",
+      "weight": 0.2921,
+      "source": 2,
+      "target": 47
+    },
+    {
+      "node1": "The Magnetic Fields",
+      "node2": "The National",
+      "weight": 0.2805,
+      "source": 2,
+      "target": 58
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Elvis Costello",
+      "weight": 0.3333,
+      "source": 4,
+      "target": 7
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Radiohead",
+      "weight": 0.3333,
+      "source": 4,
+      "target": 9
+    },
+    {
+      "node1": "The Cure",
+      "node2": "The Strokes",
+      "weight": 0.322,
+      "source": 4,
+      "target": 12
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Morrissey",
+      "weight": 0.3714,
+      "source": 4,
+      "target": 13
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Joy Division",
+      "weight": 0.5,
+      "source": 4,
+      "target": 14
+    },
+    {
+      "node1": "The Cure",
+      "node2": "New Order",
+      "weight": 0.431,
+      "source": 4,
+      "target": 15
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Depeche Mode",
+      "weight": 0.4262,
+      "source": 4,
+      "target": 16
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Cocteau Twins",
+      "weight": 0.3235,
+      "source": 4,
+      "target": 20
+    },
+    {
+      "node1": "The Cure",
+      "node2": "The Sisters of Mercy",
+      "weight": 0.3704,
+      "source": 4,
+      "target": 21
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Lowlife",
+      "weight": 0.32,
+      "source": 4,
+      "target": 22
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.5714,
+      "source": 4,
+      "target": 25
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Gary Numan",
+      "weight": 0.3929,
+      "source": 4,
+      "target": 27
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Little Nemo",
+      "weight": 0.3393,
+      "source": 4,
+      "target": 30
+    },
+    {
+      "node1": "The Cure",
+      "node2": "And Also The Trees",
+      "weight": 0.4074,
+      "source": 4,
+      "target": 33
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Pet Shop Boys",
+      "weight": 0.2794,
+      "source": 4,
+      "target": 34
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Talking Heads",
+      "weight": 0.2794,
+      "source": 4,
+      "target": 46
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Pixies",
+      "weight": 0.2754,
+      "source": 4,
+      "target": 47
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2982,
+      "source": 4,
+      "target": 48
+    },
+    {
+      "node1": "The Cure",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.5,
+      "source": 4,
+      "target": 50
+    },
+    {
+      "node1": "The Cure",
+      "node2": "The Church",
+      "weight": 0.3125,
+      "source": 4,
+      "target": 51
+    },
+    {
+      "node1": "The Cure",
+      "node2": "Bauhaus",
+      "weight": 0.4706,
+      "source": 4,
+      "target": 68
+    },
+    {
+      "node1": "Stars",
+      "node2": "Radiohead",
+      "weight": 0.3115,
+      "source": 5,
+      "target": 9
+    },
+    {
+      "node1": "Stars",
+      "node2": "The New Pornographers",
+      "weight": 0.34,
+      "source": 5,
+      "target": 18
+    },
+    {
+      "node1": "Stars",
+      "node2": "Tokyo Police Club",
+      "weight": 0.2857,
+      "source": 5,
+      "target": 23
+    },
+    {
+      "node1": "Stars",
+      "node2": "Beirut",
+      "weight": 0.3125,
+      "source": 5,
+      "target": 26
+    },
+    {
+      "node1": "Stars",
+      "node2": "Arcade Fire",
+      "weight": 0.3704,
+      "source": 5,
+      "target": 37
+    },
+    {
+      "node1": "Stars",
+      "node2": "Broken Social Scene",
+      "weight": 0.5294,
+      "source": 5,
+      "target": 44
+    },
+    {
+      "node1": "Stars",
+      "node2": "Metric",
+      "weight": 0.4038,
+      "source": 5,
+      "target": 45
+    },
+    {
+      "node1": "Stars",
+      "node2": "The National",
+      "weight": 0.2542,
+      "source": 5,
+      "target": 58
+    },
+    {
+      "node1": "Bad Religion",
+      "node2": "NOFX",
+      "weight": 0.6765,
+      "source": 6,
+      "target": 11
+    },
+    {
+      "node1": "Bad Religion",
+      "node2": "Rancid",
+      "weight": 0.4444,
+      "source": 6,
+      "target": 31
+    },
+    {
+      "node1": "Bad Religion",
+      "node2": "Anti-Flag",
+      "weight": 0.625,
+      "source": 6,
+      "target": 43
+    },
+    {
+      "node1": "Bad Religion",
+      "node2": "Operation Ivy",
+      "weight": 0.2667,
+      "source": 6,
+      "target": 65
+    },
+    {
+      "node1": "Bad Religion",
+      "node2": "Catch 22",
+      "weight": 0.2558,
+      "source": 6,
+      "target": 66
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "The Beatles",
+      "weight": 0.3333,
+      "source": 7,
+      "target": 8
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Radiohead",
+      "weight": 0.2603,
+      "source": 7,
+      "target": 9
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Guided by Voices",
+      "weight": 0.2754,
+      "source": 7,
+      "target": 10
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "The Strokes",
+      "weight": 0.2836,
+      "source": 7,
+      "target": 12
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Morrissey",
+      "weight": 0.3867,
+      "source": 7,
+      "target": 13
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Joy Division",
+      "weight": 0.2576,
+      "source": 7,
+      "target": 14
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "New Order",
+      "weight": 0.3,
+      "source": 7,
+      "target": 15
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.371,
+      "source": 7,
+      "target": 25
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Kate Bush",
+      "weight": 0.2688,
+      "source": 7,
+      "target": 39
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "The Velvet Underground",
+      "weight": 0.2778,
+      "source": 7,
+      "target": 42
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Pixies",
+      "weight": 0.2973,
+      "source": 7,
+      "target": 47
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2615,
+      "source": 7,
+      "target": 48
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3651,
+      "source": 7,
+      "target": 50
+    },
+    {
+      "node1": "Elvis Costello",
+      "node2": "The Kinks",
+      "weight": 0.3768,
+      "source": 7,
+      "target": 67
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Radiohead",
+      "weight": 0.2923,
+      "source": 8,
+      "target": 9
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Morrissey",
+      "weight": 0.2632,
+      "source": 8,
+      "target": 13
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "The Velvet Underground",
+      "weight": 0.2738,
+      "source": 8,
+      "target": 42
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.2581,
+      "source": 8,
+      "target": 50
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "The Kinks",
+      "weight": 0.45,
+      "source": 8,
+      "target": 67
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Strokes",
+      "weight": 0.2759,
+      "source": 9,
+      "target": 12
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Morrissey",
+      "weight": 0.3333,
+      "source": 9,
+      "target": 13
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "New Order",
+      "weight": 0.2742,
+      "source": 9,
+      "target": 15
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Depeche Mode",
+      "weight": 0.2969,
+      "source": 9,
+      "target": 16
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Cocteau Twins",
+      "weight": 0.2836,
+      "source": 9,
+      "target": 20
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.3036,
+      "source": 9,
+      "target": 25
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Beirut",
+      "weight": 0.2537,
+      "source": 9,
+      "target": 26
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Arcade Fire",
+      "weight": 0.2759,
+      "source": 9,
+      "target": 37
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Kate Bush",
+      "weight": 0.3086,
+      "source": 9,
+      "target": 39
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Broken Social Scene",
+      "weight": 0.3684,
+      "source": 9,
+      "target": 44
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Pixies",
+      "weight": 0.2537,
+      "source": 9,
+      "target": 47
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.2542,
+      "source": 9,
+      "target": 50
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "The Strokes",
+      "weight": 0.3462,
+      "source": 10,
+      "target": 12
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.2778,
+      "source": 10,
+      "target": 25
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "The Velvet Underground",
+      "weight": 0.2857,
+      "source": 10,
+      "target": 42
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "Broken Social Scene",
+      "weight": 0.2759,
+      "source": 10,
+      "target": 44
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "Talking Heads",
+      "weight": 0.2742,
+      "source": 10,
+      "target": 46
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "Pixies",
+      "weight": 0.3793,
+      "source": 10,
+      "target": 47
+    },
+    {
+      "node1": "Guided by Voices",
+      "node2": "The National",
+      "weight": 0.2727,
+      "source": 10,
+      "target": 58
+    },
+    {
+      "node1": "NOFX",
+      "node2": "Rancid",
+      "weight": 0.5,
+      "source": 11,
+      "target": 31
+    },
+    {
+      "node1": "NOFX",
+      "node2": "Anti-Flag",
+      "weight": 0.6765,
+      "source": 11,
+      "target": 43
+    },
+    {
+      "node1": "NOFX",
+      "node2": "Choking Victim",
+      "weight": 0.2653,
+      "source": 11,
+      "target": 57
+    },
+    {
+      "node1": "NOFX",
+      "node2": "Operation Ivy",
+      "weight": 0.3478,
+      "source": 11,
+      "target": 65
+    },
+    {
+      "node1": "NOFX",
+      "node2": "Catch 22",
+      "weight": 0.3409,
+      "source": 11,
+      "target": 66
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Morrissey",
+      "weight": 0.303,
+      "source": 12,
+      "target": 13
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "New Order",
+      "weight": 0.2586,
+      "source": 12,
+      "target": 15
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Tokyo Police Club",
+      "weight": 0.32,
+      "source": 12,
+      "target": 23
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.2885,
+      "source": 12,
+      "target": 25
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Beirut",
+      "weight": 0.2787,
+      "source": 12,
+      "target": 26
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "They Might Be Giants",
+      "weight": 0.2632,
+      "source": 12,
+      "target": 28
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Arcade Fire",
+      "weight": 0.283,
+      "source": 12,
+      "target": 37
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The Velvet Underground",
+      "weight": 0.2933,
+      "source": 12,
+      "target": 42
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Metric",
+      "weight": 0.2885,
+      "source": 12,
+      "target": 45
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Talking Heads",
+      "weight": 0.3051,
+      "source": 12,
+      "target": 46
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Pixies",
+      "weight": 0.3684,
+      "source": 12,
+      "target": 47
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.283,
+      "source": 12,
+      "target": 50
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The National",
+      "weight": 0.3077,
+      "source": 12,
+      "target": 58
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "Joy Division",
+      "weight": 0.2576,
+      "source": 13,
+      "target": 14
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "New Order",
+      "weight": 0.3188,
+      "source": 13,
+      "target": 15
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.3492,
+      "source": 13,
+      "target": 25
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "Kate Bush",
+      "weight": 0.2826,
+      "source": 13,
+      "target": 39
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "Pixies",
+      "weight": 0.2632,
+      "source": 13,
+      "target": 47
+    },
+    {
+      "node1": "Morrissey",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.303,
+      "source": 13,
+      "target": 50
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "New Order",
+      "weight": 0.3462,
+      "source": 14,
+      "target": 15
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Depeche Mode",
+      "weight": 0.3214,
+      "source": 14,
+      "target": 16
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Cocteau Twins",
+      "weight": 0.2833,
+      "source": 14,
+      "target": 20
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "The Sisters of Mercy",
+      "weight": 0.3864,
+      "source": 14,
+      "target": 21
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Lowlife",
+      "weight": 0.4324,
+      "source": 14,
+      "target": 22
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.4545,
+      "source": 14,
+      "target": 25
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Gary Numan",
+      "weight": 0.3542,
+      "source": 14,
+      "target": 27
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Little Nemo",
+      "weight": 0.3191,
+      "source": 14,
+      "target": 30
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "And Also The Trees",
+      "weight": 0.4318,
+      "source": 14,
+      "target": 33
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Talking Heads",
+      "weight": 0.2759,
+      "source": 14,
+      "target": 46
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Public Image Ltd.",
+      "weight": 0.3556,
+      "source": 14,
+      "target": 48
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Sex Pistols",
+      "weight": 0.2683,
+      "source": 14,
+      "target": 49
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.413,
+      "source": 14,
+      "target": 50
+    },
+    {
+      "node1": "Joy Division",
+      "node2": "Bauhaus",
+      "weight": 0.5122,
+      "source": 14,
+      "target": 68
+    },
+    {
+      "node1": "New Order",
+      "node2": "Depeche Mode",
+      "weight": 0.4909,
+      "source": 15,
+      "target": 16
+    },
+    {
+      "node1": "New Order",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.44,
+      "source": 15,
+      "target": 25
+    },
+    {
+      "node1": "New Order",
+      "node2": "Gary Numan",
+      "weight": 0.3774,
+      "source": 15,
+      "target": 27
+    },
+    {
+      "node1": "New Order",
+      "node2": "Pet Shop Boys",
+      "weight": 0.4909,
+      "source": 15,
+      "target": 34
+    },
+    {
+      "node1": "New Order",
+      "node2": "Metric",
+      "weight": 0.3091,
+      "source": 15,
+      "target": 45
+    },
+    {
+      "node1": "New Order",
+      "node2": "Pixies",
+      "weight": 0.2576,
+      "source": 15,
+      "target": 47
+    },
+    {
+      "node1": "New Order",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2778,
+      "source": 15,
+      "target": 48
+    },
+    {
+      "node1": "New Order",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.4038,
+      "source": 15,
+      "target": 50
+    },
+    {
+      "node1": "New Order",
+      "node2": "Bauhaus",
+      "weight": 0.2727,
+      "source": 15,
+      "target": 68
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Cocteau Twins",
+      "weight": 0.2899,
+      "source": 16,
+      "target": 20
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "The Sisters of Mercy",
+      "weight": 0.3273,
+      "source": 16,
+      "target": 21
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.3818,
+      "source": 16,
+      "target": 25
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Gary Numan",
+      "weight": 0.6383,
+      "source": 16,
+      "target": 27
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Little Nemo",
+      "weight": 0.2759,
+      "source": 16,
+      "target": 30
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "And Also The Trees",
+      "weight": 0.2931,
+      "source": 16,
+      "target": 33
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Pet Shop Boys",
+      "weight": 0.4828,
+      "source": 16,
+      "target": 34
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Metric",
+      "weight": 0.2667,
+      "source": 16,
+      "target": 45
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3509,
+      "source": 16,
+      "target": 50
+    },
+    {
+      "node1": "Depeche Mode",
+      "node2": "Bauhaus",
+      "weight": 0.3455,
+      "source": 16,
+      "target": 68
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "KRS-One",
+      "weight": 0.3898,
+      "source": 17,
+      "target": 29
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "A Tribe Called Quest",
+      "weight": 0.303,
+      "source": 17,
+      "target": 54
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Busta Rhymes",
+      "weight": 0.3333,
+      "source": 17,
+      "target": 55
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Ghostface Killah",
+      "weight": 0.5,
+      "source": 17,
+      "target": 59
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Rakim",
+      "weight": 0.4167,
+      "source": 17,
+      "target": 60
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "De La Soul",
+      "weight": 0.2857,
+      "source": 17,
+      "target": 61
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Public Enemy",
+      "weight": 0.3158,
+      "source": 17,
+      "target": 62
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Raekwon",
+      "weight": 0.6744,
+      "source": 17,
+      "target": 63
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Boogie Down Productions",
+      "weight": 0.3651,
+      "source": 17,
+      "target": 64
+    },
+    {
+      "node1": "Wu-Tang Clan",
+      "node2": "Masta Killa",
+      "weight": 0.4909,
+      "source": 17,
+      "target": 69
+    },
+    {
+      "node1": "The New Pornographers",
+      "node2": "Tokyo Police Club",
+      "weight": 0.3111,
+      "source": 18,
+      "target": 23
+    },
+    {
+      "node1": "The New Pornographers",
+      "node2": "Arcade Fire",
+      "weight": 0.2708,
+      "source": 18,
+      "target": 37
+    },
+    {
+      "node1": "The New Pornographers",
+      "node2": "Broken Social Scene",
+      "weight": 0.3542,
+      "source": 18,
+      "target": 44
+    },
+    {
+      "node1": "The New Pornographers",
+      "node2": "Metric",
+      "weight": 0.3953,
+      "source": 18,
+      "target": 45
+    },
+    {
+      "node1": "Peter Tosh",
+      "node2": "Black Uhuru",
+      "weight": 0.3333,
+      "source": 19,
+      "target": 52
+    },
+    {
+      "node1": "Peter Tosh",
+      "node2": "Bob Marley",
+      "weight": 0.5,
+      "source": 19,
+      "target": 53
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "The Sisters of Mercy",
+      "weight": 0.2881,
+      "source": 20,
+      "target": 21
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Lowlife",
+      "weight": 0.3333,
+      "source": 20,
+      "target": 22
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.339,
+      "source": 20,
+      "target": 25
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Gary Numan",
+      "weight": 0.2698,
+      "source": 20,
+      "target": 27
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "And Also The Trees",
+      "weight": 0.3,
+      "source": 20,
+      "target": 33
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Dead Can Dance",
+      "weight": 0.4143,
+      "source": 20,
+      "target": 36
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Kate Bush",
+      "weight": 0.2874,
+      "source": 20,
+      "target": 39
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.2698,
+      "source": 20,
+      "target": 50
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "The Church",
+      "weight": 0.303,
+      "source": 20,
+      "target": 51
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Bauhaus",
+      "weight": 0.3276,
+      "source": 20,
+      "target": 68
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "Lowlife",
+      "weight": 0.3684,
+      "source": 21,
+      "target": 22
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.3696,
+      "source": 21,
+      "target": 25
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "Gary Numan",
+      "weight": 0.3617,
+      "source": 21,
+      "target": 27
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "Little Nemo",
+      "weight": 0.2979,
+      "source": 21,
+      "target": 30
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "And Also The Trees",
+      "weight": 0.4419,
+      "source": 21,
+      "target": 33
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.28,
+      "source": 21,
+      "target": 50
+    },
+    {
+      "node1": "The Sisters of Mercy",
+      "node2": "Bauhaus",
+      "weight": 0.5641,
+      "source": 21,
+      "target": 68
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "Echo and the Bunnymen",
+      "weight": 0.375,
+      "source": 22,
+      "target": 25
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "Little Nemo",
+      "weight": 0.325,
+      "source": 22,
+      "target": 30
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "And Also The Trees",
+      "weight": 0.4211,
+      "source": 22,
+      "target": 33
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3023,
+      "source": 22,
+      "target": 50
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "The Church",
+      "weight": 0.2917,
+      "source": 22,
+      "target": 51
+    },
+    {
+      "node1": "Lowlife",
+      "node2": "Bauhaus",
+      "weight": 0.3947,
+      "source": 22,
+      "target": 68
+    },
+    {
+      "node1": "Tokyo Police Club",
+      "node2": "Arcade Fire",
+      "weight": 0.32,
+      "source": 23,
+      "target": 37
+    },
+    {
+      "node1": "Tokyo Police Club",
+      "node2": "Broken Social Scene",
+      "weight": 0.2963,
+      "source": 23,
+      "target": 44
+    },
+    {
+      "node1": "Tokyo Police Club",
+      "node2": "Metric",
+      "weight": 0.413,
+      "source": 23,
+      "target": 45
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Gary Numan",
+      "weight": 0.34,
+      "source": 25,
+      "target": 27
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Little Nemo",
+      "weight": 0.3061,
+      "source": 25,
+      "target": 30
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "And Also The Trees",
+      "weight": 0.3542,
+      "source": 25,
+      "target": 33
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Pet Shop Boys",
+      "weight": 0.2667,
+      "source": 25,
+      "target": 34
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Talking Heads",
+      "weight": 0.2881,
+      "source": 25,
+      "target": 46
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Pixies",
+      "weight": 0.3051,
+      "source": 25,
+      "target": 47
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Public Image Ltd.",
+      "weight": 0.3404,
+      "source": 25,
+      "target": 48
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Sex Pistols",
+      "weight": 0.2558,
+      "source": 25,
+      "target": 49
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.5581,
+      "source": 25,
+      "target": 50
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "The Church",
+      "weight": 0.4038,
+      "source": 25,
+      "target": 51
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "The Kinks",
+      "weight": 0.2667,
+      "source": 25,
+      "target": 67
+    },
+    {
+      "node1": "Echo and the Bunnymen",
+      "node2": "Bauhaus",
+      "weight": 0.4222,
+      "source": 25,
+      "target": 68
+    },
+    {
+      "node1": "Beirut",
+      "node2": "Arcade Fire",
+      "weight": 0.2787,
+      "source": 26,
+      "target": 37
+    },
+    {
+      "node1": "Beirut",
+      "node2": "Broken Social Scene",
+      "weight": 0.2615,
+      "source": 26,
+      "target": 44
+    },
+    {
+      "node1": "Beirut",
+      "node2": "Pixies",
+      "weight": 0.2571,
+      "source": 26,
+      "target": 47
+    },
+    {
+      "node1": "Beirut",
+      "node2": "The National",
+      "weight": 0.3684,
+      "source": 26,
+      "target": 58
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "Little Nemo",
+      "weight": 0.3,
+      "source": 27,
+      "target": 30
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "And Also The Trees",
+      "weight": 0.32,
+      "source": 27,
+      "target": 33
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "Pet Shop Boys",
+      "weight": 0.3509,
+      "source": 27,
+      "target": 34
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2549,
+      "source": 27,
+      "target": 48
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.36,
+      "source": 27,
+      "target": 50
+    },
+    {
+      "node1": "Gary Numan",
+      "node2": "Bauhaus",
+      "weight": 0.413,
+      "source": 27,
+      "target": 68
+    },
+    {
+      "node1": "They Might Be Giants",
+      "node2": "Talking Heads",
+      "weight": 0.3291,
+      "source": 28,
+      "target": 46
+    },
+    {
+      "node1": "They Might Be Giants",
+      "node2": "Pixies",
+      "weight": 0.325,
+      "source": 28,
+      "target": 47
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "dead prez",
+      "weight": 0.3684,
+      "source": 29,
+      "target": 38
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "A Tribe Called Quest",
+      "weight": 0.3824,
+      "source": 29,
+      "target": 54
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Busta Rhymes",
+      "weight": 0.3077,
+      "source": 29,
+      "target": 55
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Ghostface Killah",
+      "weight": 0.2909,
+      "source": 29,
+      "target": 59
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Rakim",
+      "weight": 0.434,
+      "source": 29,
+      "target": 60
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "De La Soul",
+      "weight": 0.3559,
+      "source": 29,
+      "target": 61
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Public Enemy",
+      "weight": 0.4068,
+      "source": 29,
+      "target": 62
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Raekwon",
+      "weight": 0.3559,
+      "source": 29,
+      "target": 63
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Boogie Down Productions",
+      "weight": 0.5667,
+      "source": 29,
+      "target": 64
+    },
+    {
+      "node1": "KRS-One",
+      "node2": "Masta Killa",
+      "weight": 0.3235,
+      "source": 29,
+      "target": 69
+    },
+    {
+      "node1": "Little Nemo",
+      "node2": "And Also The Trees",
+      "weight": 0.3404,
+      "source": 30,
+      "target": 33
+    },
+    {
+      "node1": "Little Nemo",
+      "node2": "Bauhaus",
+      "weight": 0.3478,
+      "source": 30,
+      "target": 68
+    },
+    {
+      "node1": "Rancid",
+      "node2": "INDK",
+      "weight": 0.2941,
+      "source": 31,
+      "target": 40
+    },
+    {
+      "node1": "Rancid",
+      "node2": "Anti-Flag",
+      "weight": 0.4857,
+      "source": 31,
+      "target": 43
+    },
+    {
+      "node1": "Rancid",
+      "node2": "Choking Victim",
+      "weight": 0.3256,
+      "source": 31,
+      "target": 57
+    },
+    {
+      "node1": "Rancid",
+      "node2": "Operation Ivy",
+      "weight": 0.4615,
+      "source": 31,
+      "target": 65
+    },
+    {
+      "node1": "Rancid",
+      "node2": "Catch 22",
+      "weight": 0.3846,
+      "source": 31,
+      "target": 66
+    },
+    {
+      "node1": "The Coup",
+      "node2": "dead prez",
+      "weight": 0.3333,
+      "source": 32,
+      "target": 38
+    },
+    {
+      "node1": "And Also The Trees",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.2692,
+      "source": 33,
+      "target": 50
+    },
+    {
+      "node1": "And Also The Trees",
+      "node2": "Bauhaus",
+      "weight": 0.4651,
+      "source": 33,
+      "target": 68
+    },
+    {
+      "node1": "Pet Shop Boys",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3051,
+      "source": 34,
+      "target": 50
+    },
+    {
+      "node1": "Arcade Fire",
+      "node2": "Broken Social Scene",
+      "weight": 0.3585,
+      "source": 37,
+      "target": 44
+    },
+    {
+      "node1": "Arcade Fire",
+      "node2": "Metric",
+      "weight": 0.3137,
+      "source": 37,
+      "target": 45
+    },
+    {
+      "node1": "Arcade Fire",
+      "node2": "The National",
+      "weight": 0.3077,
+      "source": 37,
+      "target": 58
+    },
+    {
+      "node1": "dead prez",
+      "node2": "A Tribe Called Quest",
+      "weight": 0.2812,
+      "source": 38,
+      "target": 54
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Ghostface Killah",
+      "weight": 0.2553,
+      "source": 38,
+      "target": 59
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Rakim",
+      "weight": 0.3061,
+      "source": 38,
+      "target": 60
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Public Enemy",
+      "weight": 0.3396,
+      "source": 38,
+      "target": 62
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Raekwon",
+      "weight": 0.2593,
+      "source": 38,
+      "target": 63
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Boogie Down Productions",
+      "weight": 0.2812,
+      "source": 38,
+      "target": 64
+    },
+    {
+      "node1": "dead prez",
+      "node2": "Masta Killa",
+      "weight": 0.2581,
+      "source": 38,
+      "target": 69
+    },
+    {
+      "node1": "Kate Bush",
+      "node2": "The Divine Comedy",
+      "weight": 0.2787,
+      "source": 39,
+      "target": 41
+    },
+    {
+      "node1": "INDK",
+      "node2": "Anti-Flag",
+      "weight": 0.2571,
+      "source": 40,
+      "target": 43
+    },
+    {
+      "node1": "INDK",
+      "node2": "Choking Victim",
+      "weight": 0.4412,
+      "source": 40,
+      "target": 57
+    },
+    {
+      "node1": "INDK",
+      "node2": "Operation Ivy",
+      "weight": 0.3243,
+      "source": 40,
+      "target": 65
+    },
+    {
+      "node1": "The Velvet Underground",
+      "node2": "Talking Heads",
+      "weight": 0.359,
+      "source": 42,
+      "target": 46
+    },
+    {
+      "node1": "The Velvet Underground",
+      "node2": "Pixies",
+      "weight": 0.3544,
+      "source": 42,
+      "target": 47
+    },
+    {
+      "node1": "The Velvet Underground",
+      "node2": "The Kinks",
+      "weight": 0.2927,
+      "source": 42,
+      "target": 67
+    },
+    {
+      "node1": "Anti-Flag",
+      "node2": "Choking Victim",
+      "weight": 0.3256,
+      "source": 43,
+      "target": 57
+    },
+    {
+      "node1": "Anti-Flag",
+      "node2": "Operation Ivy",
+      "weight": 0.3256,
+      "source": 43,
+      "target": 65
+    },
+    {
+      "node1": "Anti-Flag",
+      "node2": "Catch 22",
+      "weight": 0.3171,
+      "source": 43,
+      "target": 66
+    },
+    {
+      "node1": "Broken Social Scene",
+      "node2": "Metric",
+      "weight": 0.3396,
+      "source": 44,
+      "target": 45
+    },
+    {
+      "node1": "Broken Social Scene",
+      "node2": "Pixies",
+      "weight": 0.2615,
+      "source": 44,
+      "target": 47
+    },
+    {
+      "node1": "Talking Heads",
+      "node2": "Pixies",
+      "weight": 0.4032,
+      "source": 46,
+      "target": 47
+    },
+    {
+      "node1": "Talking Heads",
+      "node2": "Public Image Ltd.",
+      "weight": 0.4038,
+      "source": 46,
+      "target": 48
+    },
+    {
+      "node1": "Talking Heads",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3276,
+      "source": 46,
+      "target": 50
+    },
+    {
+      "node1": "Pixies",
+      "node2": "Public Image Ltd.",
+      "weight": 0.2759,
+      "source": 47,
+      "target": 48
+    },
+    {
+      "node1": "Pixies",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.2787,
+      "source": 47,
+      "target": 50
+    },
+    {
+      "node1": "Public Image Ltd.",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.4222,
+      "source": 48,
+      "target": 50
+    },
+    {
+      "node1": "Public Image Ltd.",
+      "node2": "Bauhaus",
+      "weight": 0.3261,
+      "source": 48,
+      "target": 68
+    },
+    {
+      "node1": "Sex Pistols",
+      "node2": "The Psychedelic Furs",
+      "weight": 0.3095,
+      "source": 49,
+      "target": 50
+    },
+    {
+      "node1": "Sex Pistols",
+      "node2": "Bauhaus",
+      "weight": 0.2683,
+      "source": 49,
+      "target": 68
+    },
+    {
+      "node1": "The Psychedelic Furs",
+      "node2": "The Church",
+      "weight": 0.3214,
+      "source": 50,
+      "target": 51
+    },
+    {
+      "node1": "The Psychedelic Furs",
+      "node2": "The Kinks",
+      "weight": 0.3276,
+      "source": 50,
+      "target": 67
+    },
+    {
+      "node1": "The Psychedelic Furs",
+      "node2": "Bauhaus",
+      "weight": 0.383,
+      "source": 50,
+      "target": 68
+    },
+    {
+      "node1": "Black Uhuru",
+      "node2": "Bob Marley",
+      "weight": 0.3,
+      "source": 52,
+      "target": 53
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Leaders of the New School",
+      "weight": 0.3158,
+      "source": 54,
+      "target": 56
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Rakim",
+      "weight": 0.3115,
+      "source": 54,
+      "target": 60
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "De La Soul",
+      "weight": 0.5556,
+      "source": 54,
+      "target": 61
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Public Enemy",
+      "weight": 0.2794,
+      "source": 54,
+      "target": 62
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Raekwon",
+      "weight": 0.2727,
+      "source": 54,
+      "target": 63
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Boogie Down Productions",
+      "weight": 0.2895,
+      "source": 54,
+      "target": 64
+    },
+    {
+      "node1": "A Tribe Called Quest",
+      "node2": "Masta Killa",
+      "weight": 0.2703,
+      "source": 54,
+      "target": 69
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "Ghostface Killah",
+      "weight": 0.4,
+      "source": 55,
+      "target": 59
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "Rakim",
+      "weight": 0.2857,
+      "source": 55,
+      "target": 60
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "De La Soul",
+      "weight": 0.2609,
+      "source": 55,
+      "target": 61
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "Public Enemy",
+      "weight": 0.2979,
+      "source": 55,
+      "target": 62
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "Raekwon",
+      "weight": 0.3488,
+      "source": 55,
+      "target": 63
+    },
+    {
+      "node1": "Busta Rhymes",
+      "node2": "Masta Killa",
+      "weight": 0.283,
+      "source": 55,
+      "target": 69
+    },
+    {
+      "node1": "Leaders of the New School",
+      "node2": "Rakim",
+      "weight": 0.2588,
+      "source": 56,
+      "target": 60
+    },
+    {
+      "node1": "Leaders of the New School",
+      "node2": "De La Soul",
+      "weight": 0.3059,
+      "source": 56,
+      "target": 61
+    },
+    {
+      "node1": "Choking Victim",
+      "node2": "Operation Ivy",
+      "weight": 0.3478,
+      "source": 57,
+      "target": 65
+    },
+    {
+      "node1": "Choking Victim",
+      "node2": "Catch 22",
+      "weight": 0.2826,
+      "source": 57,
+      "target": 66
+    },
+    {
+      "node1": "Ghostface Killah",
+      "node2": "Rakim",
+      "weight": 0.3256,
+      "source": 59,
+      "target": 60
+    },
+    {
+      "node1": "Ghostface Killah",
+      "node2": "Public Enemy",
+      "weight": 0.3061,
+      "source": 59,
+      "target": 62
+    },
+    {
+      "node1": "Ghostface Killah",
+      "node2": "Raekwon",
+      "weight": 0.5641,
+      "source": 59,
+      "target": 63
+    },
+    {
+      "node1": "Ghostface Killah",
+      "node2": "Boogie Down Productions",
+      "weight": 0.3158,
+      "source": 59,
+      "target": 64
+    },
+    {
+      "node1": "Ghostface Killah",
+      "node2": "Masta Killa",
+      "weight": 0.3654,
+      "source": 59,
+      "target": 69
+    },
+    {
+      "node1": "Rakim",
+      "node2": "De La Soul",
+      "weight": 0.3469,
+      "source": 60,
+      "target": 61
+    },
+    {
+      "node1": "Rakim",
+      "node2": "Public Enemy",
+      "weight": 0.3019,
+      "source": 60,
+      "target": 62
+    },
+    {
+      "node1": "Rakim",
+      "node2": "Raekwon",
+      "weight": 0.3469,
+      "source": 60,
+      "target": 63
+    },
+    {
+      "node1": "Rakim",
+      "node2": "Boogie Down Productions",
+      "weight": 0.3793,
+      "source": 60,
+      "target": 64
+    },
+    {
+      "node1": "Rakim",
+      "node2": "Masta Killa",
+      "weight": 0.3571,
+      "source": 60,
+      "target": 69
+    },
+    {
+      "node1": "De La Soul",
+      "node2": "Public Enemy",
+      "weight": 0.3774,
+      "source": 61,
+      "target": 62
+    },
+    {
+      "node1": "De La Soul",
+      "node2": "Boogie Down Productions",
+      "weight": 0.3125,
+      "source": 61,
+      "target": 64
+    },
+    {
+      "node1": "Public Enemy",
+      "node2": "Raekwon",
+      "weight": 0.3036,
+      "source": 62,
+      "target": 63
+    },
+    {
+      "node1": "Public Enemy",
+      "node2": "Boogie Down Productions",
+      "weight": 0.4032,
+      "source": 62,
+      "target": 64
+    },
+    {
+      "node1": "Public Enemy",
+      "node2": "Masta Killa",
+      "weight": 0.2769,
+      "source": 62,
+      "target": 69
+    },
+    {
+      "node1": "Raekwon",
+      "node2": "Boogie Down Productions",
+      "weight": 0.3125,
+      "source": 63,
+      "target": 64
+    },
+    {
+      "node1": "Raekwon",
+      "node2": "Masta Killa",
+      "weight": 0.5094,
+      "source": 63,
+      "target": 69
+    },
+    {
+      "node1": "Boogie Down Productions",
+      "node2": "Masta Killa",
+      "weight": 0.2533,
+      "source": 64,
+      "target": 69
+    },
+    {
+      "node1": "Operation Ivy",
+      "node2": "Catch 22",
+      "weight": 0.3721,
+      "source": 65,
+      "target": 66
+    }
+  ]
+} 
