@@ -507,6 +507,13 @@
   ],
   "links": [
     {
+      "node1": "The Weeknd",
+      "node2": "John Legend",
+      "weight": 0.2319,
+      "source": 0,
+      "target": 8
+    },
+    {
       "node1": "Foster The People",
       "node2": "The Lumineers",
       "weight": 0.3023,
@@ -515,10 +522,24 @@
     },
     {
       "node1": "Foster The People",
+      "node2": "Coldplay",
+      "weight": 0.2308,
+      "source": 1,
+      "target": 6
+    },
+    {
+      "node1": "Foster The People",
       "node2": "Imagine Dragons",
       "weight": 0.4118,
       "source": 1,
       "target": 9
+    },
+    {
+      "node1": "Foster The People",
+      "node2": "Christina Perri",
+      "weight": 0.2097,
+      "source": 1,
+      "target": 23
     },
     {
       "node1": "Foster The People",
@@ -564,6 +585,20 @@
     },
     {
       "node1": "Foster The People",
+      "node2": "Daft Punk",
+      "weight": 0.2045,
+      "source": 1,
+      "target": 51
+    },
+    {
+      "node1": "Foster The People",
+      "node2": "American Authors",
+      "weight": 0.2241,
+      "source": 1,
+      "target": 52
+    },
+    {
+      "node1": "Foster The People",
       "node2": "Kings Of Leon",
       "weight": 0.2553,
       "source": 1,
@@ -575,6 +610,13 @@
       "weight": 0.325,
       "source": 1,
       "target": 61
+    },
+    {
+      "node1": "Foster The People",
+      "node2": "Calvin Harris",
+      "weight": 0.2075,
+      "source": 1,
+      "target": 62
     },
     {
       "node1": "Foster The People",
@@ -592,10 +634,24 @@
     },
     {
       "node1": "Fleetwood Mac",
+      "node2": "Ed Sheeran",
+      "weight": 0.2381,
+      "source": 3,
+      "target": 17
+    },
+    {
+      "node1": "Fleetwood Mac",
       "node2": "The Beatles",
       "weight": 0.2698,
       "source": 3,
       "target": 20
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Olly Murs",
+      "weight": 0.2131,
+      "source": 3,
+      "target": 21
     },
     {
       "node1": "Fleetwood Mac",
@@ -606,10 +662,38 @@
     },
     {
       "node1": "Fleetwood Mac",
+      "node2": "The Script",
+      "weight": 0.2075,
+      "source": 3,
+      "target": 26
+    },
+    {
+      "node1": "Fleetwood Mac",
       "node2": "Eagles",
       "weight": 0.4889,
       "source": 3,
       "target": 28
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Of Monsters and Men",
+      "weight": 0.2292,
+      "source": 3,
+      "target": 30
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Hozier",
+      "weight": 0.2037,
+      "source": 3,
+      "target": 31
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "OneRepublic",
+      "weight": 0.2264,
+      "source": 3,
+      "target": 33
     },
     {
       "node1": "Fleetwood Mac",
@@ -627,10 +711,38 @@
     },
     {
       "node1": "Fleetwood Mac",
+      "node2": "Sam Smith",
+      "weight": 0.2037,
+      "source": 3,
+      "target": 47
+    },
+    {
+      "node1": "Fleetwood Mac",
       "node2": "Paolo Nutini",
       "weight": 0.2581,
       "source": 3,
       "target": 56
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Van Halen",
+      "weight": 0.2041,
+      "source": 3,
+      "target": 60
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Mumford",
+      "weight": 0.2264,
+      "source": 3,
+      "target": 66
+    },
+    {
+      "node1": "Fleetwood Mac",
+      "node2": "Maroon 5",
+      "weight": 0.2295,
+      "source": 3,
+      "target": 67
     },
     {
       "node1": "Fleetwood Mac",
@@ -655,6 +767,34 @@
     },
     {
       "node1": "Sia",
+      "node2": "The Script",
+      "weight": 0.2258,
+      "source": 4,
+      "target": 26
+    },
+    {
+      "node1": "Sia",
+      "node2": "OneRepublic",
+      "weight": 0.2419,
+      "source": 4,
+      "target": 33
+    },
+    {
+      "node1": "Sia",
+      "node2": "Robin Thicke",
+      "weight": 0.2024,
+      "source": 4,
+      "target": 36
+    },
+    {
+      "node1": "Sia",
+      "node2": "Ellie Goulding",
+      "weight": 0.2432,
+      "source": 4,
+      "target": 38
+    },
+    {
+      "node1": "Sia",
       "node2": "Katy Perry",
       "weight": 0.2794,
       "source": 4,
@@ -676,10 +816,24 @@
     },
     {
       "node1": "Sia",
+      "node2": "Birdy",
+      "weight": 0.2464,
+      "source": 4,
+      "target": 65
+    },
+    {
+      "node1": "Sia",
       "node2": "Maroon 5",
       "weight": 0.2609,
       "source": 4,
       "target": 67
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "Coldplay",
+      "weight": 0.2364,
+      "source": 5,
+      "target": 6
     },
     {
       "node1": "The Lumineers",
@@ -690,10 +844,31 @@
     },
     {
       "node1": "The Lumineers",
+      "node2": "George Ezra",
+      "weight": 0.2169,
+      "source": 5,
+      "target": 11
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "James Bay",
+      "weight": 0.2344,
+      "source": 5,
+      "target": 14
+    },
+    {
+      "node1": "The Lumineers",
       "node2": "Ed Sheeran",
       "weight": 0.2632,
       "source": 5,
       "target": 17
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "Olly Murs",
+      "weight": 0.2143,
+      "source": 5,
+      "target": 21
     },
     {
       "node1": "The Lumineers",
@@ -704,10 +879,24 @@
     },
     {
       "node1": "The Lumineers",
+      "node2": "Passenger",
+      "weight": 0.2466,
+      "source": 5,
+      "target": 24
+    },
+    {
+      "node1": "The Lumineers",
       "node2": "The Script",
       "weight": 0.2889,
       "source": 5,
       "target": 26
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "Eagles",
+      "weight": 0.22,
+      "source": 5,
+      "target": 28
     },
     {
       "node1": "The Lumineers",
@@ -739,6 +928,34 @@
     },
     {
       "node1": "The Lumineers",
+      "node2": "Katy Perry",
+      "weight": 0.2105,
+      "source": 5,
+      "target": 39
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "James Morrison",
+      "weight": 0.2105,
+      "source": 5,
+      "target": 40
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "Bastille",
+      "weight": 0.2083,
+      "source": 5,
+      "target": 50
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "American Authors",
+      "weight": 0.2295,
+      "source": 5,
+      "target": 52
+    },
+    {
+      "node1": "The Lumineers",
       "node2": "Kings Of Leon",
       "weight": 0.2857,
       "source": 5,
@@ -760,6 +977,13 @@
     },
     {
       "node1": "The Lumineers",
+      "node2": "Birdy",
+      "weight": 0.2143,
+      "source": 5,
+      "target": 65
+    },
+    {
+      "node1": "The Lumineers",
       "node2": "Mumford",
       "weight": 0.3409,
       "source": 5,
@@ -773,11 +997,39 @@
       "target": 67
     },
     {
+      "node1": "The Lumineers",
+      "node2": "Paul Simon",
+      "weight": 0.2167,
+      "source": 5,
+      "target": 69
+    },
+    {
+      "node1": "The Lumineers",
+      "node2": "Vance Joy",
+      "weight": 0.2131,
+      "source": 5,
+      "target": 71
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Imagine Dragons",
+      "weight": 0.2245,
+      "source": 6,
+      "target": 9
+    },
+    {
       "node1": "Coldplay",
       "node2": "Ed Sheeran",
       "weight": 0.2903,
       "source": 6,
       "target": 17
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "The Beatles",
+      "weight": 0.2424,
+      "source": 6,
+      "target": 20
     },
     {
       "node1": "Coldplay",
@@ -795,6 +1047,13 @@
     },
     {
       "node1": "Coldplay",
+      "node2": "Passenger",
+      "weight": 0.2073,
+      "source": 6,
+      "target": 24
+    },
+    {
+      "node1": "Coldplay",
       "node2": "Bryan Adams",
       "weight": 0.2778,
       "source": 6,
@@ -809,10 +1068,38 @@
     },
     {
       "node1": "Coldplay",
+      "node2": "Of Monsters and Men",
+      "weight": 0.2449,
+      "source": 6,
+      "target": 30
+    },
+    {
+      "node1": "Coldplay",
       "node2": "OneRepublic",
       "weight": 0.3958,
       "source": 6,
       "target": 33
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Walk the Moon",
+      "weight": 0.2069,
+      "source": 6,
+      "target": 35
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Ellie Goulding",
+      "weight": 0.2424,
+      "source": 6,
+      "target": 38
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Katy Perry",
+      "weight": 0.2031,
+      "source": 6,
+      "target": 39
     },
     {
       "node1": "Coldplay",
@@ -823,10 +1110,24 @@
     },
     {
       "node1": "Coldplay",
+      "node2": "Sam Smith",
+      "weight": 0.2407,
+      "source": 6,
+      "target": 47
+    },
+    {
+      "node1": "Coldplay",
       "node2": "Bastille",
       "weight": 0.2941,
       "source": 6,
       "target": 50
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Kings Of Leon",
+      "weight": 0.2241,
+      "source": 6,
+      "target": 55
     },
     {
       "node1": "Coldplay",
@@ -837,10 +1138,24 @@
     },
     {
       "node1": "Coldplay",
+      "node2": "Fun.",
+      "weight": 0.25,
+      "source": 6,
+      "target": 61
+    },
+    {
+      "node1": "Coldplay",
       "node2": "Birdy",
       "weight": 0.2667,
       "source": 6,
       "target": 65
+    },
+    {
+      "node1": "Coldplay",
+      "node2": "Mumford",
+      "weight": 0.2407,
+      "source": 6,
+      "target": 66
     },
     {
       "node1": "Coldplay",
@@ -858,10 +1173,24 @@
     },
     {
       "node1": "Selena Gomez",
+      "node2": "Fifth Harmony",
+      "weight": 0.2214,
+      "source": 7,
+      "target": 18
+    },
+    {
+      "node1": "Selena Gomez",
       "node2": "Taylor Swift",
       "weight": 0.2717,
       "source": 7,
       "target": 19
+    },
+    {
+      "node1": "Selena Gomez",
+      "node2": "Ellie Goulding",
+      "weight": 0.2366,
+      "source": 7,
+      "target": 38
     },
     {
       "node1": "Selena Gomez",
@@ -872,10 +1201,24 @@
     },
     {
       "node1": "Selena Gomez",
+      "node2": "Little Mix",
+      "weight": 0.2119,
+      "source": 7,
+      "target": 48
+    },
+    {
+      "node1": "Selena Gomez",
       "node2": "Carly Rae Jepsen",
       "weight": 0.2653,
       "source": 7,
       "target": 64
+    },
+    {
+      "node1": "Selena Gomez",
+      "node2": "Birdy",
+      "weight": 0.2111,
+      "source": 7,
+      "target": 65
     },
     {
       "node1": "John Legend",
@@ -892,11 +1235,95 @@
       "target": 36
     },
     {
+      "node1": "John Legend",
+      "node2": "James Morrison",
+      "weight": 0.2295,
+      "source": 8,
+      "target": 40
+    },
+    {
+      "node1": "John Legend",
+      "node2": "Pitbull",
+      "weight": 0.2222,
+      "source": 8,
+      "target": 44
+    },
+    {
+      "node1": "John Legend",
+      "node2": "Mark Ronson",
+      "weight": 0.2429,
+      "source": 8,
+      "target": 46
+    },
+    {
+      "node1": "John Legend",
+      "node2": "Sam Smith",
+      "weight": 0.2037,
+      "source": 8,
+      "target": 47
+    },
+    {
+      "node1": "John Legend",
+      "node2": "Paolo Nutini",
+      "weight": 0.2188,
+      "source": 8,
+      "target": 56
+    },
+    {
+      "node1": "John Legend",
+      "node2": "Maroon 5",
+      "weight": 0.2295,
+      "source": 8,
+      "target": 67
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "James Bay",
+      "weight": 0.2034,
+      "source": 9,
+      "target": 14
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Christina Perri",
+      "weight": 0.2456,
+      "source": 9,
+      "target": 23
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Passenger",
+      "weight": 0.2029,
+      "source": 9,
+      "target": 24
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "The Script",
+      "weight": 0.25,
+      "source": 9,
+      "target": 26
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Eagles",
+      "weight": 0.2045,
+      "source": 9,
+      "target": 28
+    },
+    {
       "node1": "Imagine Dragons",
       "node2": "Of Monsters and Men",
       "weight": 0.3235,
       "source": 9,
       "target": 30
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Hozier",
+      "weight": 0.2439,
+      "source": 9,
+      "target": 31
     },
     {
       "node1": "Imagine Dragons",
@@ -911,6 +1338,13 @@
       "weight": 0.35,
       "source": 9,
       "target": 35
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Katy Perry",
+      "weight": 0.22,
+      "source": 9,
+      "target": 39
     },
     {
       "node1": "Imagine Dragons",
@@ -935,10 +1369,31 @@
     },
     {
       "node1": "Imagine Dragons",
+      "node2": "Paolo Nutini",
+      "weight": 0.2075,
+      "source": 9,
+      "target": 56
+    },
+    {
+      "node1": "Imagine Dragons",
       "node2": "Fun.",
       "weight": 0.3243,
       "source": 9,
       "target": 61
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Birdy",
+      "weight": 0.2245,
+      "source": 9,
+      "target": 65
+    },
+    {
+      "node1": "Imagine Dragons",
+      "node2": "Mumford",
+      "weight": 0.2143,
+      "source": 9,
+      "target": 66
     },
     {
       "node1": "Imagine Dragons",
@@ -948,11 +1403,67 @@
       "target": 67
     },
     {
+      "node1": "Imagine Dragons",
+      "node2": "Paul Simon",
+      "weight": 0.2037,
+      "source": 9,
+      "target": 69
+    },
+    {
       "node1": "George Ezra",
       "node2": "James Bay",
       "weight": 0.2632,
       "source": 11,
       "target": 14
+    },
+    {
+      "node1": "George Ezra",
+      "node2": "Ed Sheeran",
+      "weight": 0.2418,
+      "source": 11,
+      "target": 17
+    },
+    {
+      "node1": "George Ezra",
+      "node2": "Of Monsters and Men",
+      "weight": 0.2208,
+      "source": 11,
+      "target": 30
+    },
+    {
+      "node1": "George Ezra",
+      "node2": "Birdy",
+      "weight": 0.2111,
+      "source": 11,
+      "target": 65
+    },
+    {
+      "node1": "George Ezra",
+      "node2": "Mumford",
+      "weight": 0.2195,
+      "source": 11,
+      "target": 66
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Ed Sheeran",
+      "weight": 0.2466,
+      "source": 14,
+      "target": 17
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Olly Murs",
+      "weight": 0.2083,
+      "source": 14,
+      "target": 21
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Passenger",
+      "weight": 0.25,
+      "source": 14,
+      "target": 24
     },
     {
       "node1": "James Bay",
@@ -967,6 +1478,76 @@
       "weight": 0.2787,
       "source": 14,
       "target": 31
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Paolo Nutini",
+      "weight": 0.2133,
+      "source": 14,
+      "target": 56
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Birdy",
+      "weight": 0.2254,
+      "source": 14,
+      "target": 65
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Mumford",
+      "weight": 0.2188,
+      "source": 14,
+      "target": 66
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Paul Simon",
+      "weight": 0.2105,
+      "source": 14,
+      "target": 69
+    },
+    {
+      "node1": "James Bay",
+      "node2": "Vance Joy",
+      "weight": 0.24,
+      "source": 14,
+      "target": 71
+    },
+    {
+      "node1": "Rudimental",
+      "node2": "Major Lazer",
+      "weight": 0.2333,
+      "source": 16,
+      "target": 29
+    },
+    {
+      "node1": "Rudimental",
+      "node2": "Mark Ronson",
+      "weight": 0.209,
+      "source": 16,
+      "target": 46
+    },
+    {
+      "node1": "Rudimental",
+      "node2": "Sam Smith",
+      "weight": 0.2041,
+      "source": 16,
+      "target": 47
+    },
+    {
+      "node1": "Rudimental",
+      "node2": "Bastille",
+      "weight": 0.234,
+      "source": 16,
+      "target": 50
+    },
+    {
+      "node1": "Rudimental",
+      "node2": "Avicii",
+      "weight": 0.2326,
+      "source": 16,
+      "target": 63
     },
     {
       "node1": "Ed Sheeran",
@@ -984,6 +1565,13 @@
     },
     {
       "node1": "Ed Sheeran",
+      "node2": "Bryan Adams",
+      "weight": 0.2373,
+      "source": 17,
+      "target": 25
+    },
+    {
+      "node1": "Ed Sheeran",
       "node2": "The Script",
       "weight": 0.2727,
       "source": 17,
@@ -998,10 +1586,38 @@
     },
     {
       "node1": "Ed Sheeran",
+      "node2": "Hozier",
+      "weight": 0.2241,
+      "source": 17,
+      "target": 31
+    },
+    {
+      "node1": "Ed Sheeran",
+      "node2": "OneRepublic",
+      "weight": 0.2241,
+      "source": 17,
+      "target": 33
+    },
+    {
+      "node1": "Ed Sheeran",
+      "node2": "Ellie Goulding",
+      "weight": 0.2286,
+      "source": 17,
+      "target": 38
+    },
+    {
+      "node1": "Ed Sheeran",
       "node2": "James Morrison",
       "weight": 0.4211,
       "source": 17,
       "target": 40
+    },
+    {
+      "node1": "Ed Sheeran",
+      "node2": "Mark Ronson",
+      "weight": 0.2078,
+      "source": 17,
+      "target": 46
     },
     {
       "node1": "Ed Sheeran",
@@ -1019,10 +1635,52 @@
     },
     {
       "node1": "Ed Sheeran",
+      "node2": "Birdy",
+      "weight": 0.25,
+      "source": 17,
+      "target": 65
+    },
+    {
+      "node1": "Ed Sheeran",
       "node2": "Mumford",
       "weight": 0.2679,
       "source": 17,
       "target": 66
+    },
+    {
+      "node1": "Ed Sheeran",
+      "node2": "Maroon 5",
+      "weight": 0.2462,
+      "source": 17,
+      "target": 67
+    },
+    {
+      "node1": "Ed Sheeran",
+      "node2": "Paul Simon",
+      "weight": 0.2319,
+      "source": 17,
+      "target": 69
+    },
+    {
+      "node1": "Fifth Harmony",
+      "node2": "Little Mix",
+      "weight": 0.2464,
+      "source": 18,
+      "target": 48
+    },
+    {
+      "node1": "Fifth Harmony",
+      "node2": "One Direction",
+      "weight": 0.2422,
+      "source": 18,
+      "target": 57
+    },
+    {
+      "node1": "Taylor Swift",
+      "node2": "Christina Perri",
+      "weight": 0.2025,
+      "source": 19,
+      "target": 23
     },
     {
       "node1": "Taylor Swift",
@@ -1030,6 +1688,20 @@
       "weight": 0.3043,
       "source": 19,
       "target": 38
+    },
+    {
+      "node1": "Taylor Swift",
+      "node2": "Katy Perry",
+      "weight": 0.2143,
+      "source": 19,
+      "target": 39
+    },
+    {
+      "node1": "Taylor Swift",
+      "node2": "Miley Cyrus",
+      "weight": 0.2065,
+      "source": 19,
+      "target": 42
     },
     {
       "node1": "Taylor Swift",
@@ -1046,11 +1718,60 @@
       "target": 65
     },
     {
+      "node1": "Taylor Swift",
+      "node2": "Paul Simon",
+      "weight": 0.2027,
+      "source": 19,
+      "target": 69
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Eagles",
+      "weight": 0.2097,
+      "source": 20,
+      "target": 28
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "James Morrison",
+      "weight": 0.2206,
+      "source": 20,
+      "target": 40
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Paolo Nutini",
+      "weight": 0.2286,
+      "source": 20,
+      "target": 56
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Mumford",
+      "weight": 0.2167,
+      "source": 20,
+      "target": 66
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Maroon 5",
+      "weight": 0.2029,
+      "source": 20,
+      "target": 67
+    },
+    {
       "node1": "The Beatles",
       "node2": "Paul Simon",
       "weight": 0.2609,
       "source": 20,
       "target": 69
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Christina Perri",
+      "weight": 0.2429,
+      "source": 21,
+      "target": 23
     },
     {
       "node1": "Olly Murs",
@@ -1061,10 +1782,38 @@
     },
     {
       "node1": "Olly Murs",
+      "node2": "Of Monsters and Men",
+      "weight": 0.22,
+      "source": 21,
+      "target": 30
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "OneRepublic",
+      "weight": 0.2182,
+      "source": 21,
+      "target": 33
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Ellie Goulding",
+      "weight": 0.2239,
+      "source": 21,
+      "target": 38
+    },
+    {
+      "node1": "Olly Murs",
       "node2": "James Morrison",
       "weight": 0.3051,
       "source": 21,
       "target": 40
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Mark Ronson",
+      "weight": 0.2192,
+      "source": 21,
+      "target": 46
     },
     {
       "node1": "Olly Murs",
@@ -1075,10 +1824,45 @@
     },
     {
       "node1": "Olly Murs",
+      "node2": "Little Mix",
+      "weight": 0.2088,
+      "source": 21,
+      "target": 48
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Bastille",
+      "weight": 0.2453,
+      "source": 21,
+      "target": 50
+    },
+    {
+      "node1": "Olly Murs",
       "node2": "Paolo Nutini",
       "weight": 0.2903,
       "source": 21,
       "target": 56
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Fun.",
+      "weight": 0.2037,
+      "source": 21,
+      "target": 61
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Birdy",
+      "weight": 0.2459,
+      "source": 21,
+      "target": 65
+    },
+    {
+      "node1": "Olly Murs",
+      "node2": "Mumford",
+      "weight": 0.2182,
+      "source": 21,
+      "target": 66
     },
     {
       "node1": "Olly Murs",
@@ -1089,10 +1873,24 @@
     },
     {
       "node1": "Christina Perri",
+      "node2": "Bryan Adams",
+      "weight": 0.2121,
+      "source": 23,
+      "target": 25
+    },
+    {
+      "node1": "Christina Perri",
       "node2": "The Script",
       "weight": 0.2623,
       "source": 23,
       "target": 26
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Of Monsters and Men",
+      "weight": 0.2203,
+      "source": 23,
+      "target": 30
     },
     {
       "node1": "Christina Perri",
@@ -1103,10 +1901,52 @@
     },
     {
       "node1": "Christina Perri",
+      "node2": "Walk the Moon",
+      "weight": 0.209,
+      "source": 23,
+      "target": 35
+    },
+    {
+      "node1": "Christina Perri",
       "node2": "Katy Perry",
       "weight": 0.2571,
       "source": 23,
       "target": 39
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "James Morrison",
+      "weight": 0.2222,
+      "source": 23,
+      "target": 40
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Lorde",
+      "weight": 0.2078,
+      "source": 23,
+      "target": 49
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Paolo Nutini",
+      "weight": 0.2297,
+      "source": 23,
+      "target": 56
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Fun.",
+      "weight": 0.2459,
+      "source": 23,
+      "target": 61
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Birdy",
+      "weight": 0.2429,
+      "source": 23,
+      "target": 65
     },
     {
       "node1": "Christina Perri",
@@ -1116,11 +1956,53 @@
       "target": 67
     },
     {
+      "node1": "Christina Perri",
+      "node2": "Paul Simon",
+      "weight": 0.2105,
+      "source": 23,
+      "target": 69
+    },
+    {
+      "node1": "Christina Perri",
+      "node2": "Rachel Platten",
+      "weight": 0.2105,
+      "source": 23,
+      "target": 70
+    },
+    {
       "node1": "Passenger",
       "node2": "Of Monsters and Men",
       "weight": 0.2537,
       "source": 24,
       "target": 30
+    },
+    {
+      "node1": "Passenger",
+      "node2": "Bastille",
+      "weight": 0.2027,
+      "source": 24,
+      "target": 50
+    },
+    {
+      "node1": "Passenger",
+      "node2": "Birdy",
+      "weight": 0.2073,
+      "source": 24,
+      "target": 65
+    },
+    {
+      "node1": "Passenger",
+      "node2": "Mumford",
+      "weight": 0.2329,
+      "source": 24,
+      "target": 66
+    },
+    {
+      "node1": "Passenger",
+      "node2": "Maroon 5",
+      "weight": 0.2048,
+      "source": 24,
+      "target": 67
     },
     {
       "node1": "Bryan Adams",
@@ -1131,10 +2013,24 @@
     },
     {
       "node1": "Bryan Adams",
+      "node2": "Guns N' Roses",
+      "weight": 0.2174,
+      "source": 25,
+      "target": 27
+    },
+    {
+      "node1": "Bryan Adams",
       "node2": "Eagles",
       "weight": 0.2917,
       "source": 25,
       "target": 28
+    },
+    {
+      "node1": "Bryan Adams",
+      "node2": "OneRepublic",
+      "weight": 0.25,
+      "source": 25,
+      "target": 33
     },
     {
       "node1": "Bryan Adams",
@@ -1194,6 +2090,20 @@
     },
     {
       "node1": "The Script",
+      "node2": "Walk the Moon",
+      "weight": 0.25,
+      "source": 26,
+      "target": 35
+    },
+    {
+      "node1": "The Script",
+      "node2": "Katy Perry",
+      "weight": 0.2407,
+      "source": 26,
+      "target": 39
+    },
+    {
+      "node1": "The Script",
       "node2": "James Morrison",
       "weight": 0.3673,
       "source": 26,
@@ -1205,6 +2115,13 @@
       "weight": 0.2727,
       "source": 26,
       "target": 50
+    },
+    {
+      "node1": "The Script",
+      "node2": "Kings Of Leon",
+      "weight": 0.22,
+      "source": 26,
+      "target": 55
     },
     {
       "node1": "The Script",
@@ -1222,10 +2139,52 @@
     },
     {
       "node1": "The Script",
+      "node2": "Birdy",
+      "weight": 0.2222,
+      "source": 26,
+      "target": 65
+    },
+    {
+      "node1": "The Script",
+      "node2": "Mumford",
+      "weight": 0.2391,
+      "source": 26,
+      "target": 66
+    },
+    {
+      "node1": "The Script",
       "node2": "Maroon 5",
       "weight": 0.3673,
       "source": 26,
       "target": 67
+    },
+    {
+      "node1": "The Script",
+      "node2": "Paul Simon",
+      "weight": 0.2034,
+      "source": 26,
+      "target": 69
+    },
+    {
+      "node1": "Guns N' Roses",
+      "node2": "Eagles",
+      "weight": 0.2174,
+      "source": 27,
+      "target": 28
+    },
+    {
+      "node1": "Guns N' Roses",
+      "node2": "Journey",
+      "weight": 0.2326,
+      "source": 27,
+      "target": 37
+    },
+    {
+      "node1": "Guns N' Roses",
+      "node2": "Kings Of Leon",
+      "weight": 0.234,
+      "source": 27,
+      "target": 55
     },
     {
       "node1": "Guns N' Roses",
@@ -1236,10 +2195,24 @@
     },
     {
       "node1": "Eagles",
+      "node2": "OneRepublic",
+      "weight": 0.25,
+      "source": 28,
+      "target": 33
+    },
+    {
+      "node1": "Eagles",
       "node2": "Journey",
       "weight": 0.3721,
       "source": 28,
       "target": 37
+    },
+    {
+      "node1": "Eagles",
+      "node2": "James Morrison",
+      "weight": 0.25,
+      "source": 28,
+      "target": 40
     },
     {
       "node1": "Eagles",
@@ -1250,6 +2223,13 @@
     },
     {
       "node1": "Eagles",
+      "node2": "Paolo Nutini",
+      "weight": 0.2167,
+      "source": 28,
+      "target": 56
+    },
+    {
+      "node1": "Eagles",
       "node2": "Van Halen",
       "weight": 0.2558,
       "source": 28,
@@ -1257,10 +2237,31 @@
     },
     {
       "node1": "Eagles",
+      "node2": "Maroon 5",
+      "weight": 0.25,
+      "source": 28,
+      "target": 67
+    },
+    {
+      "node1": "Eagles",
       "node2": "Paul Simon",
       "weight": 0.4231,
       "source": 28,
       "target": 69
+    },
+    {
+      "node1": "Major Lazer",
+      "node2": "Mark Ronson",
+      "weight": 0.2179,
+      "source": 29,
+      "target": 46
+    },
+    {
+      "node1": "Major Lazer",
+      "node2": "Daft Punk",
+      "weight": 0.2241,
+      "source": 29,
+      "target": 51
     },
     {
       "node1": "Of Monsters and Men",
@@ -1271,10 +2272,59 @@
     },
     {
       "node1": "Of Monsters and Men",
+      "node2": "OneRepublic",
+      "weight": 0.2381,
+      "source": 30,
+      "target": 33
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Walk the Moon",
+      "weight": 0.2222,
+      "source": 30,
+      "target": 35
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "James Morrison",
+      "weight": 0.2157,
+      "source": 30,
+      "target": 40
+    },
+    {
+      "node1": "Of Monsters and Men",
       "node2": "Bastille",
       "weight": 0.275,
       "source": 30,
       "target": 50
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "American Authors",
+      "weight": 0.2143,
+      "source": 30,
+      "target": 52
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Kings Of Leon",
+      "weight": 0.2174,
+      "source": 30,
+      "target": 55
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Paolo Nutini",
+      "weight": 0.2264,
+      "source": 30,
+      "target": 56
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Fun.",
+      "weight": 0.2195,
+      "source": 30,
+      "target": 61
     },
     {
       "node1": "Of Monsters and Men",
@@ -1291,6 +2341,48 @@
       "target": 66
     },
     {
+      "node1": "Of Monsters and Men",
+      "node2": "Maroon 5",
+      "weight": 0.24,
+      "source": 30,
+      "target": 67
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Paul Simon",
+      "weight": 0.2222,
+      "source": 30,
+      "target": 69
+    },
+    {
+      "node1": "Of Monsters and Men",
+      "node2": "Vance Joy",
+      "weight": 0.2407,
+      "source": 30,
+      "target": 71
+    },
+    {
+      "node1": "Hozier",
+      "node2": "Kings Of Leon",
+      "weight": 0.2157,
+      "source": 31,
+      "target": 55
+    },
+    {
+      "node1": "Hozier",
+      "node2": "Paolo Nutini",
+      "weight": 0.2241,
+      "source": 31,
+      "target": 56
+    },
+    {
+      "node1": "Hozier",
+      "node2": "Birdy",
+      "weight": 0.2407,
+      "source": 31,
+      "target": 65
+    },
+    {
       "node1": "Hozier",
       "node2": "Mumford",
       "weight": 0.2609,
@@ -1298,11 +2390,32 @@
       "target": 66
     },
     {
+      "node1": "Jason Derulo",
+      "node2": "Robin Thicke",
+      "weight": 0.2381,
+      "source": 32,
+      "target": 36
+    },
+    {
+      "node1": "Jason Derulo",
+      "node2": "Pitbull",
+      "weight": 0.2462,
+      "source": 32,
+      "target": 44
+    },
+    {
       "node1": "OneRepublic",
       "node2": "Walk the Moon",
       "weight": 0.2979,
       "source": 33,
       "target": 35
+    },
+    {
+      "node1": "OneRepublic",
+      "node2": "Journey",
+      "weight": 0.2128,
+      "source": 33,
+      "target": 37
     },
     {
       "node1": "OneRepublic",
@@ -1317,6 +2430,20 @@
       "weight": 0.283,
       "source": 33,
       "target": 40
+    },
+    {
+      "node1": "OneRepublic",
+      "node2": "Bastille",
+      "weight": 0.2128,
+      "source": 33,
+      "target": 50
+    },
+    {
+      "node1": "OneRepublic",
+      "node2": "American Authors",
+      "weight": 0.2333,
+      "source": 33,
+      "target": 52
     },
     {
       "node1": "OneRepublic",
@@ -1355,10 +2482,45 @@
     },
     {
       "node1": "Walk the Moon",
+      "node2": "Katy Perry",
+      "weight": 0.2034,
+      "source": 35,
+      "target": 39
+    },
+    {
+      "node1": "Walk the Moon",
+      "node2": "Bastille",
+      "weight": 0.25,
+      "source": 35,
+      "target": 50
+    },
+    {
+      "node1": "Walk the Moon",
+      "node2": "American Authors",
+      "weight": 0.2222,
+      "source": 35,
+      "target": 52
+    },
+    {
+      "node1": "Walk the Moon",
+      "node2": "Kings Of Leon",
+      "weight": 0.2264,
+      "source": 35,
+      "target": 55
+    },
+    {
+      "node1": "Walk the Moon",
       "node2": "Fun.",
       "weight": 0.3111,
       "source": 35,
       "target": 61
+    },
+    {
+      "node1": "Walk the Moon",
+      "node2": "Maroon 5",
+      "weight": 0.2456,
+      "source": 35,
+      "target": 67
     },
     {
       "node1": "Journey",
@@ -1366,6 +2528,48 @@
       "weight": 0.3421,
       "source": 37,
       "target": 60
+    },
+    {
+      "node1": "Journey",
+      "node2": "Maroon 5",
+      "weight": 0.2182,
+      "source": 37,
+      "target": 67
+    },
+    {
+      "node1": "Journey",
+      "node2": "Paul Simon",
+      "weight": 0.2456,
+      "source": 37,
+      "target": 69
+    },
+    {
+      "node1": "Ellie Goulding",
+      "node2": "Katy Perry",
+      "weight": 0.2029,
+      "source": 38,
+      "target": 39
+    },
+    {
+      "node1": "Ellie Goulding",
+      "node2": "James Morrison",
+      "weight": 0.2388,
+      "source": 38,
+      "target": 40
+    },
+    {
+      "node1": "Ellie Goulding",
+      "node2": "Mark Ronson",
+      "weight": 0.2179,
+      "source": 38,
+      "target": 46
+    },
+    {
+      "node1": "Ellie Goulding",
+      "node2": "Sam Smith",
+      "weight": 0.2167,
+      "source": 38,
+      "target": 47
     },
     {
       "node1": "Ellie Goulding",
@@ -1390,6 +2594,20 @@
     },
     {
       "node1": "Ellie Goulding",
+      "node2": "Daft Punk",
+      "weight": 0.2241,
+      "source": 38,
+      "target": 51
+    },
+    {
+      "node1": "Ellie Goulding",
+      "node2": "Paolo Nutini",
+      "weight": 0.2113,
+      "source": 38,
+      "target": 56
+    },
+    {
+      "node1": "Ellie Goulding",
       "node2": "Calvin Harris",
       "weight": 0.2812,
       "source": 38,
@@ -1410,11 +2628,39 @@
       "target": 65
     },
     {
+      "node1": "Ellie Goulding",
+      "node2": "Maroon 5",
+      "weight": 0.2029,
+      "source": 38,
+      "target": 67
+    },
+    {
       "node1": "Katy Perry",
       "node2": "Miley Cyrus",
       "weight": 0.3506,
       "source": 39,
       "target": 42
+    },
+    {
+      "node1": "Katy Perry",
+      "node2": "Fun.",
+      "weight": 0.2222,
+      "source": 39,
+      "target": 61
+    },
+    {
+      "node1": "Katy Perry",
+      "node2": "Carly Rae Jepsen",
+      "weight": 0.2267,
+      "source": 39,
+      "target": 64
+    },
+    {
+      "node1": "Katy Perry",
+      "node2": "Birdy",
+      "weight": 0.2031,
+      "source": 39,
+      "target": 65
     },
     {
       "node1": "Katy Perry",
@@ -1432,10 +2678,31 @@
     },
     {
       "node1": "James Morrison",
+      "node2": "Bastille",
+      "weight": 0.2182,
+      "source": 40,
+      "target": 50
+    },
+    {
+      "node1": "James Morrison",
       "node2": "Paolo Nutini",
       "weight": 0.5577,
       "source": 40,
       "target": 56
+    },
+    {
+      "node1": "James Morrison",
+      "node2": "Birdy",
+      "weight": 0.2419,
+      "source": 40,
+      "target": 65
+    },
+    {
+      "node1": "James Morrison",
+      "node2": "Mumford",
+      "weight": 0.2364,
+      "source": 40,
+      "target": 66
     },
     {
       "node1": "James Morrison",
@@ -1452,11 +2719,60 @@
       "target": 69
     },
     {
+      "node1": "Pitbull",
+      "node2": "Mark Ronson",
+      "weight": 0.209,
+      "source": 44,
+      "target": 46
+    },
+    {
+      "node1": "Mark Ronson",
+      "node2": "Sam Smith",
+      "weight": 0.2308,
+      "source": 46,
+      "target": 47
+    },
+    {
       "node1": "Mark Ronson",
       "node2": "Bastille",
       "weight": 0.254,
       "source": 46,
       "target": 50
+    },
+    {
+      "node1": "Mark Ronson",
+      "node2": "Daft Punk",
+      "weight": 0.2381,
+      "source": 46,
+      "target": 51
+    },
+    {
+      "node1": "Mark Ronson",
+      "node2": "Paolo Nutini",
+      "weight": 0.2078,
+      "source": 46,
+      "target": 56
+    },
+    {
+      "node1": "Mark Ronson",
+      "node2": "Calvin Harris",
+      "weight": 0.2027,
+      "source": 46,
+      "target": 62
+    },
+    {
+      "node1": "Mark Ronson",
+      "node2": "Maroon 5",
+      "weight": 0.2162,
+      "source": 46,
+      "target": 67
+    },
+    {
+      "node1": "Sam Smith",
+      "node2": "Little Mix",
+      "weight": 0.2024,
+      "source": 47,
+      "target": 48
     },
     {
       "node1": "Sam Smith",
@@ -1467,10 +2783,38 @@
     },
     {
       "node1": "Sam Smith",
+      "node2": "Jess Glynne",
+      "weight": 0.2143,
+      "source": 47,
+      "target": 53
+    },
+    {
+      "node1": "Sam Smith",
+      "node2": "Paolo Nutini",
+      "weight": 0.2034,
+      "source": 47,
+      "target": 56
+    },
+    {
+      "node1": "Sam Smith",
+      "node2": "Birdy",
+      "weight": 0.2407,
+      "source": 47,
+      "target": 65
+    },
+    {
+      "node1": "Sam Smith",
       "node2": "Mumford",
       "weight": 0.2609,
       "source": 47,
       "target": 66
+    },
+    {
+      "node1": "Sam Smith",
+      "node2": "Maroon 5",
+      "weight": 0.2364,
+      "source": 47,
+      "target": 67
     },
     {
       "node1": "Little Mix",
@@ -1487,11 +2831,67 @@
       "target": 65
     },
     {
+      "node1": "Lorde",
+      "node2": "Christine and the Queens",
+      "weight": 0.2055,
+      "source": 49,
+      "target": 54
+    },
+    {
+      "node1": "Lorde",
+      "node2": "Carly Rae Jepsen",
+      "weight": 0.2125,
+      "source": 49,
+      "target": 64
+    },
+    {
+      "node1": "Lorde",
+      "node2": "Birdy",
+      "weight": 0.2424,
+      "source": 49,
+      "target": 65
+    },
+    {
+      "node1": "Bastille",
+      "node2": "Daft Punk",
+      "weight": 0.25,
+      "source": 50,
+      "target": 51
+    },
+    {
+      "node1": "Bastille",
+      "node2": "Paolo Nutini",
+      "weight": 0.2281,
+      "source": 50,
+      "target": 56
+    },
+    {
+      "node1": "Bastille",
+      "node2": "Fun.",
+      "weight": 0.2222,
+      "source": 50,
+      "target": 61
+    },
+    {
       "node1": "Bastille",
       "node2": "Calvin Harris",
       "weight": 0.32,
       "source": 50,
       "target": 62
+    },
+    {
+      "node1": "Bastille",
+      "node2": "Avicii",
+      "weight": 0.2143,
+      "source": 50,
+      "target": 63
+    },
+    {
+      "node1": "Bastille",
+      "node2": "Birdy",
+      "weight": 0.2222,
+      "source": 50,
+      "target": 65
     },
     {
       "node1": "Bastille",
@@ -1522,6 +2922,34 @@
       "target": 62
     },
     {
+      "node1": "Daft Punk",
+      "node2": "Avicii",
+      "weight": 0.25,
+      "source": 51,
+      "target": 63
+    },
+    {
+      "node1": "American Authors",
+      "node2": "Fun.",
+      "weight": 0.2414,
+      "source": 52,
+      "target": 61
+    },
+    {
+      "node1": "Kings Of Leon",
+      "node2": "Paolo Nutini",
+      "weight": 0.2295,
+      "source": 55,
+      "target": 56
+    },
+    {
+      "node1": "Kings Of Leon",
+      "node2": "Fun.",
+      "weight": 0.25,
+      "source": 55,
+      "target": 61
+    },
+    {
       "node1": "Kings Of Leon",
       "node2": "Mumford",
       "weight": 0.2653,
@@ -1534,6 +2962,27 @@
       "weight": 0.2857,
       "source": 55,
       "target": 67
+    },
+    {
+      "node1": "Paolo Nutini",
+      "node2": "Fun.",
+      "weight": 0.2105,
+      "source": 56,
+      "target": 61
+    },
+    {
+      "node1": "Paolo Nutini",
+      "node2": "Birdy",
+      "weight": 0.2308,
+      "source": 56,
+      "target": 65
+    },
+    {
+      "node1": "Paolo Nutini",
+      "node2": "Mumford",
+      "weight": 0.2241,
+      "source": 56,
+      "target": 66
     },
     {
       "node1": "Paolo Nutini",
@@ -1564,6 +3013,13 @@
       "target": 63
     },
     {
+      "node1": "Fun.",
+      "node2": "Maroon 5",
+      "weight": 0.2453,
+      "source": 61,
+      "target": 67
+    },
+    {
       "node1": "Calvin Harris",
       "node2": "Avicii",
       "weight": 0.2708,
@@ -1576,6 +3032,20 @@
       "weight": 0.4,
       "source": 64,
       "target": 65
+    },
+    {
+      "node1": "Birdy",
+      "node2": "Mumford",
+      "weight": 0.2407,
+      "source": 65,
+      "target": 66
+    },
+    {
+      "node1": "Birdy",
+      "node2": "Maroon 5",
+      "weight": 0.2031,
+      "source": 65,
+      "target": 67
     },
     {
       "node1": "Maroon 5",
