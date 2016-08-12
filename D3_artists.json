@@ -1,9 +1,9 @@
 {
   "nodes": [
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "John Legend",
+      "second": "Mark Ronson",
+      "third": "Sia",
       "name": "The Weeknd",
       "group": 1
     },
@@ -15,9 +15,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Miley Cyrus",
+      "second": "Fifth Harmony",
+      "third": "Jason Derulo",
       "name": "Meghan Trainor",
       "group": 1
     },
@@ -59,7 +59,7 @@
     {
       "first": "Robin Thicke",
       "second": "Jason Derulo",
-      "third": "None",
+      "third": "Mark Ronson",
       "name": "John Legend",
       "group": 1
     },
@@ -71,29 +71,29 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Bastille",
+      "second": "Jess Glynne",
+      "third": "Ellie Goulding",
       "name": "Clean Bandit",
       "group": 1
     },
     {
       "first": "James Bay",
-      "second": "None",
-      "third": "None",
+      "second": "Ed Sheeran",
+      "third": "Of Monsters and Men",
       "name": "George Ezra",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "John Legend",
+      "second": "Jason Derulo",
+      "third": "Mark Ronson",
       "name": "Pharrell Williams",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
+      "first": "Foster The People",
+      "second": "Imagine Dragons",
       "third": "None",
       "name": "twenty one pilots",
       "group": 1
@@ -113,9 +113,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Bastille",
+      "second": "Major Lazer",
+      "third": "Avicii",
       "name": "Rudimental",
       "group": 1
     },
@@ -127,9 +127,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Little Mix",
+      "second": "One Direction",
+      "third": "Selena Gomez",
       "name": "Fifth Harmony",
       "group": 1
     },
@@ -143,7 +143,7 @@
     {
       "first": "Fleetwood Mac",
       "second": "Paul Simon",
-      "third": "None",
+      "third": "Coldplay",
       "name": "The Beatles",
       "group": 1
     },
@@ -155,9 +155,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Hozier",
+      "second": "Sam Smith",
+      "third": "Of Monsters and Men",
       "name": "Lukas Graham",
       "group": 1
     },
@@ -171,7 +171,7 @@
     {
       "first": "Ed Sheeran",
       "second": "Of Monsters and Men",
-      "third": "None",
+      "third": "James Bay",
       "name": "Passenger",
       "group": 1
     },
@@ -191,8 +191,8 @@
     },
     {
       "first": "Van Halen",
-      "second": "None",
-      "third": "None",
+      "second": "Kings Of Leon",
+      "third": "Journey",
       "name": "Guns N' Roses",
       "group": 1
     },
@@ -204,9 +204,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Rudimental",
+      "second": "Daft Punk",
+      "third": "Mark Ronson",
       "name": "Major Lazer",
       "group": 1
     },
@@ -226,8 +226,8 @@
     },
     {
       "first": "John Legend",
-      "second": "None",
-      "third": "None",
+      "second": "Pitbull",
+      "third": "Robin Thicke",
       "name": "Jason Derulo",
       "group": 1
     },
@@ -239,8 +239,8 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
+      "first": "Sam Smith",
+      "second": "Shawn Mendes",
       "third": "None",
       "name": "Charlie Puth",
       "group": 1
@@ -254,8 +254,8 @@
     },
     {
       "first": "John Legend",
-      "second": "None",
-      "third": "None",
+      "second": "Jason Derulo",
+      "third": "Sia",
       "name": "Robin Thicke",
       "group": 1
     },
@@ -297,21 +297,21 @@
     {
       "first": "Katy Perry",
       "second": "Selena Gomez",
-      "third": "None",
+      "third": "Taylor Swift",
       "name": "Miley Cyrus",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Maroon 5",
+      "second": "Pitbull",
+      "third": "Olly Murs",
       "name": "Lou Bega",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Jason Derulo",
+      "second": "John Legend",
+      "third": "Mark Ronson",
       "name": "Pitbull",
       "group": 1
     },
@@ -324,8 +324,8 @@
     },
     {
       "first": "Bastille",
-      "second": "None",
-      "third": "None",
+      "second": "John Legend",
+      "third": "Daft Punk",
       "name": "Mark Ronson",
       "group": 1
     },
@@ -345,8 +345,8 @@
     },
     {
       "first": "Ellie Goulding",
-      "second": "None",
-      "third": "None",
+      "second": "Birdy",
+      "third": "Carly Rae Jepsen",
       "name": "Lorde",
       "group": 1
     },
@@ -360,28 +360,28 @@
     {
       "first": "David Guetta",
       "second": "Calvin Harris",
-      "third": "None",
+      "third": "Bastille",
       "name": "Daft Punk",
       "group": 1
     },
     {
       "first": "Imagine Dragons",
-      "second": "None",
-      "third": "None",
+      "second": "Fun.",
+      "third": "OneRepublic",
       "name": "American Authors",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Sam Smith",
+      "second": "Bastille",
+      "third": "Rudimental",
       "name": "Jess Glynne",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Lorde",
+      "second": "Ellie Goulding",
+      "third": "Daft Punk",
       "name": "Christine and the Queens",
       "group": 1
     },
@@ -400,9 +400,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Fifth Harmony",
+      "second": "Miley Cyrus",
+      "third": "Olly Murs",
       "name": "One Direction",
       "group": 1
     },
@@ -414,9 +414,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Olly Murs",
+      "second": "Of Monsters and Men",
+      "third": "Charlie Puth",
       "name": "Shawn Mendes",
       "group": 1
     },
@@ -444,7 +444,7 @@
     {
       "first": "David Guetta",
       "second": "Calvin Harris",
-      "third": "None",
+      "third": "Daft Punk",
       "name": "Avicii",
       "group": 1
     },
@@ -477,9 +477,9 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Birdy",
+      "second": "Ellie Goulding",
+      "third": "Little Mix",
       "name": "Ella Henderson",
       "group": 1
     },
@@ -491,16 +491,16 @@
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Christina Perri",
+      "second": "Katy Perry",
+      "third": "Sia",
       "name": "Rachel Platten",
       "group": 1
     },
     {
-      "first": "None",
-      "second": "None",
-      "third": "None",
+      "first": "Of Monsters and Men",
+      "second": "James Bay",
+      "third": "The Lumineers",
       "name": "Vance Joy",
       "group": 1
     }
