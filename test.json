@@ -1,0 +1,2435 @@
+{
+  "nodes": [
+    {
+      "first": "DJ Sammy",
+      "second": "Alice Deejay",
+      "third": "Sean Paul",
+      "name": "Dirty Vegas",
+      "group": 1
+    },
+    {
+      "first": "112",
+      "second": "R. Kelly",
+      "third": "Justin Timberlake",
+      "name": "Usher",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Mr. Collipark",
+      "group": 1
+    },
+    {
+      "first": "P!nk",
+      "second": "Lady Gaga",
+      "third": "Britney Spears",
+      "name": "Shakira",
+      "group": 1
+    },
+    {
+      "first": "Britney Spears",
+      "second": "Justin Timberlake",
+      "third": "50 Cent",
+      "name": "*Nsync",
+      "group": 1
+    },
+    {
+      "first": "Kelis",
+      "second": "Justin Timberlake",
+      "third": "Usher",
+      "name": "Ciara",
+      "group": 1
+    },
+    {
+      "first": "Junior Senior",
+      "second": "DJ Sammy",
+      "third": "Lady Gaga",
+      "name": "Debbie Deb",
+      "group": 1
+    },
+    {
+      "first": "50 Cent",
+      "second": "Usher",
+      "third": "Nelly",
+      "name": "Eminem",
+      "group": 1
+    },
+    {
+      "first": "Ciara",
+      "second": "Britney Spears",
+      "third": "Justin Timberlake",
+      "name": "Beyoncé",
+      "group": 1
+    },
+    {
+      "first": "P!nk",
+      "second": "Kelis",
+      "third": "Vitamin C",
+      "name": "No Doubt",
+      "group": 1
+    },
+    {
+      "first": "Kelis",
+      "second": "DJ Sammy",
+      "third": "Vitamin C",
+      "name": "Junior Senior",
+      "group": 1
+    },
+    {
+      "first": "Eminem",
+      "second": "Nelly",
+      "third": "Ying Yang Twins",
+      "name": "50 Cent",
+      "group": 1
+    },
+    {
+      "first": "Sean Kingston",
+      "second": "Nelly",
+      "third": "Usher",
+      "name": "Sean Paul",
+      "group": 1
+    },
+    {
+      "first": "DJ Sammy",
+      "second": "Dirty Vegas",
+      "third": "Britney Spears",
+      "name": "Alice Deejay",
+      "group": 1
+    },
+    {
+      "first": "Ying Yang Twins",
+      "second": "Kelis",
+      "third": "Nelly",
+      "name": "OutKast",
+      "group": 1
+    },
+    {
+      "first": "Lady Gaga",
+      "second": "Britney Spears",
+      "third": "P!nk",
+      "name": "Ke$ha",
+      "group": 1
+    },
+    {
+      "first": "JOE",
+      "second": "Usher",
+      "third": "Ginuwine",
+      "name": "Tyrese",
+      "group": 1
+    },
+    {
+      "first": "Ciara",
+      "second": "Usher",
+      "third": "R. Kelly",
+      "name": "Kelis",
+      "group": 1
+    },
+    {
+      "first": "Ciara",
+      "second": "Kelis",
+      "third": "Usher",
+      "name": "Estelle",
+      "group": 1
+    },
+    {
+      "first": "Usher",
+      "second": "Ying Yang Twins",
+      "third": "Sean Paul",
+      "name": "Nelly",
+      "group": 1
+    },
+    {
+      "first": "Lady Gaga",
+      "second": "Ke$ha",
+      "third": "Beyoncé",
+      "name": "Britney Spears",
+      "group": 1
+    },
+    {
+      "first": "Sean Paul",
+      "second": "Ciara",
+      "third": "Usher",
+      "name": "Sean Kingston",
+      "group": 1
+    },
+    {
+      "first": "Ke$ha",
+      "second": "Britney Spears",
+      "third": "Beyoncé",
+      "name": "Lady Gaga",
+      "group": 1
+    },
+    {
+      "first": "No Doubt",
+      "second": "Britney Spears",
+      "third": "Kelis",
+      "name": "Vitamin C",
+      "group": 1
+    },
+    {
+      "first": "Usher",
+      "second": "Ginuwine",
+      "third": "Nelly",
+      "name": "112",
+      "group": 1
+    },
+    {
+      "first": "No Doubt",
+      "second": "Ciara",
+      "third": "Kelis",
+      "name": "P!nk",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Jack Savoretti",
+      "group": 1
+    },
+    {
+      "first": "Usher",
+      "second": "Ciara",
+      "third": "Ginuwine",
+      "name": "Justin Timberlake",
+      "group": 1
+    },
+    {
+      "first": "Usher",
+      "second": "Ginuwine",
+      "third": "Ciara",
+      "name": "R. Kelly",
+      "group": 1
+    },
+    {
+      "first": "OutKast",
+      "second": "Ying Yang Twins",
+      "third": "Nelly",
+      "name": "Lil Jon",
+      "group": 1
+    },
+    {
+      "first": "Eminem",
+      "second": "50 Cent",
+      "third": "OutKast",
+      "name": "Dr. Dre",
+      "group": 1
+    },
+    {
+      "first": "JOE",
+      "second": "Usher",
+      "third": "R. Kelly",
+      "name": "Ginuwine",
+      "group": 1
+    },
+    {
+      "first": "Alice Deejay",
+      "second": "Dirty Vegas",
+      "third": "No Doubt",
+      "name": "DJ Sammy",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Eric Paslay",
+      "group": 1
+    },
+    {
+      "first": "Nelly",
+      "second": "Usher",
+      "third": "R. Kelly",
+      "name": "T-Pain",
+      "group": 1
+    },
+    {
+      "first": "Nelly",
+      "second": "OutKast",
+      "third": "Sean Paul",
+      "name": "Ying Yang Twins",
+      "group": 1
+    },
+    {
+      "first": "Ginuwine",
+      "second": "Usher",
+      "third": "Tyrese",
+      "name": "JOE",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "node1": "Dirty Vegas",
+      "node2": "No Doubt",
+      "weight": 0.1552,
+      "source": 0,
+      "target": 9
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Junior Senior",
+      "weight": 0.1944,
+      "source": 0,
+      "target": 10
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Sean Paul",
+      "weight": 0.1957,
+      "source": 0,
+      "target": 12
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Alice Deejay",
+      "weight": 0.1961,
+      "source": 0,
+      "target": 13
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "OutKast",
+      "weight": 0.1786,
+      "source": 0,
+      "target": 14
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Ke$ha",
+      "weight": 0.16,
+      "source": 0,
+      "target": 15
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Kelis",
+      "weight": 0.1846,
+      "source": 0,
+      "target": 17
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Britney Spears",
+      "weight": 0.1529,
+      "source": 0,
+      "target": 20
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "Lady Gaga",
+      "weight": 0.1846,
+      "source": 0,
+      "target": 22
+    },
+    {
+      "node1": "Dirty Vegas",
+      "node2": "DJ Sammy",
+      "weight": 0.254,
+      "source": 0,
+      "target": 32
+    },
+    {
+      "node1": "Usher",
+      "node2": "*Nsync",
+      "weight": 0.2264,
+      "source": 1,
+      "target": 4
+    },
+    {
+      "node1": "Usher",
+      "node2": "Ciara",
+      "weight": 0.4186,
+      "source": 1,
+      "target": 5
+    },
+    {
+      "node1": "Usher",
+      "node2": "Eminem",
+      "weight": 0.3415,
+      "source": 1,
+      "target": 7
+    },
+    {
+      "node1": "Usher",
+      "node2": "Beyoncé",
+      "weight": 0.2593,
+      "source": 1,
+      "target": 8
+    },
+    {
+      "node1": "Usher",
+      "node2": "50 Cent",
+      "weight": 0.2642,
+      "source": 1,
+      "target": 11
+    },
+    {
+      "node1": "Usher",
+      "node2": "Sean Paul",
+      "weight": 0.375,
+      "source": 1,
+      "target": 12
+    },
+    {
+      "node1": "Usher",
+      "node2": "OutKast",
+      "weight": 0.2941,
+      "source": 1,
+      "target": 14
+    },
+    {
+      "node1": "Usher",
+      "node2": "Ke$ha",
+      "weight": 0.16,
+      "source": 1,
+      "target": 15
+    },
+    {
+      "node1": "Usher",
+      "node2": "Tyrese",
+      "weight": 0.3729,
+      "source": 1,
+      "target": 16
+    },
+    {
+      "node1": "Usher",
+      "node2": "Kelis",
+      "weight": 0.375,
+      "source": 1,
+      "target": 17
+    },
+    {
+      "node1": "Usher",
+      "node2": "Estelle",
+      "weight": 0.3333,
+      "source": 1,
+      "target": 18
+    },
+    {
+      "node1": "Usher",
+      "node2": "Nelly",
+      "weight": 0.475,
+      "source": 1,
+      "target": 19
+    },
+    {
+      "node1": "Usher",
+      "node2": "Britney Spears",
+      "weight": 0.1807,
+      "source": 1,
+      "target": 20
+    },
+    {
+      "node1": "Usher",
+      "node2": "Sean Kingston",
+      "weight": 0.3571,
+      "source": 1,
+      "target": 21
+    },
+    {
+      "node1": "Usher",
+      "node2": "Lady Gaga",
+      "weight": 0.1667,
+      "source": 1,
+      "target": 22
+    },
+    {
+      "node1": "Usher",
+      "node2": "112",
+      "weight": 0.5385,
+      "source": 1,
+      "target": 24
+    },
+    {
+      "node1": "Usher",
+      "node2": "P!nk",
+      "weight": 0.2653,
+      "source": 1,
+      "target": 25
+    },
+    {
+      "node1": "Usher",
+      "node2": "Justin Timberlake",
+      "weight": 0.4773,
+      "source": 1,
+      "target": 27
+    },
+    {
+      "node1": "Usher",
+      "node2": "R. Kelly",
+      "weight": 0.5111,
+      "source": 1,
+      "target": 28
+    },
+    {
+      "node1": "Usher",
+      "node2": "Lil Jon",
+      "weight": 0.1795,
+      "source": 1,
+      "target": 29
+    },
+    {
+      "node1": "Usher",
+      "node2": "Dr. Dre",
+      "weight": 0.2182,
+      "source": 1,
+      "target": 30
+    },
+    {
+      "node1": "Usher",
+      "node2": "Ginuwine",
+      "weight": 0.4681,
+      "source": 1,
+      "target": 31
+    },
+    {
+      "node1": "Usher",
+      "node2": "T-Pain",
+      "weight": 0.3462,
+      "source": 1,
+      "target": 34
+    },
+    {
+      "node1": "Usher",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2979,
+      "source": 1,
+      "target": 35
+    },
+    {
+      "node1": "Usher",
+      "node2": "JOE",
+      "weight": 0.4583,
+      "source": 1,
+      "target": 36
+    },
+    {
+      "node1": "Shakira",
+      "node2": "Beyoncé",
+      "weight": 0.181,
+      "source": 3,
+      "target": 8
+    },
+    {
+      "node1": "Shakira",
+      "node2": "No Doubt",
+      "weight": 0.1591,
+      "source": 3,
+      "target": 9
+    },
+    {
+      "node1": "Shakira",
+      "node2": "Ke$ha",
+      "weight": 0.1961,
+      "source": 3,
+      "target": 15
+    },
+    {
+      "node1": "Shakira",
+      "node2": "Britney Spears",
+      "weight": 0.1982,
+      "source": 3,
+      "target": 20
+    },
+    {
+      "node1": "Shakira",
+      "node2": "Lady Gaga",
+      "weight": 0.2043,
+      "source": 3,
+      "target": 22
+    },
+    {
+      "node1": "Shakira",
+      "node2": "P!nk",
+      "weight": 0.2278,
+      "source": 3,
+      "target": 25
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Ciara",
+      "weight": 0.1525,
+      "source": 4,
+      "target": 5
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Eminem",
+      "weight": 0.1923,
+      "source": 4,
+      "target": 7
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Beyoncé",
+      "weight": 0.172,
+      "source": 4,
+      "target": 8
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "No Doubt",
+      "weight": 0.1746,
+      "source": 4,
+      "target": 9
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "50 Cent",
+      "weight": 0.2333,
+      "source": 4,
+      "target": 11
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Sean Paul",
+      "weight": 0.1698,
+      "source": 4,
+      "target": 12
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "OutKast",
+      "weight": 0.1774,
+      "source": 4,
+      "target": 14
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Kelis",
+      "weight": 0.1667,
+      "source": 4,
+      "target": 17
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Nelly",
+      "weight": 0.2222,
+      "source": 4,
+      "target": 19
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Britney Spears",
+      "weight": 0.25,
+      "source": 4,
+      "target": 20
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Lady Gaga",
+      "weight": 0.1667,
+      "source": 4,
+      "target": 22
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "112",
+      "weight": 0.1754,
+      "source": 4,
+      "target": 24
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "P!nk",
+      "weight": 0.2105,
+      "source": 4,
+      "target": 25
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Justin Timberlake",
+      "weight": 0.2414,
+      "source": 4,
+      "target": 27
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "R. Kelly",
+      "weight": 0.1719,
+      "source": 4,
+      "target": 28
+    },
+    {
+      "node1": "*Nsync",
+      "node2": "Ying Yang Twins",
+      "weight": 0.1724,
+      "source": 4,
+      "target": 35
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Eminem",
+      "weight": 0.234,
+      "source": 5,
+      "target": 7
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Beyoncé",
+      "weight": 0.3636,
+      "source": 5,
+      "target": 8
+    },
+    {
+      "node1": "Ciara",
+      "node2": "No Doubt",
+      "weight": 0.1667,
+      "source": 5,
+      "target": 9
+    },
+    {
+      "node1": "Ciara",
+      "node2": "50 Cent",
+      "weight": 0.1864,
+      "source": 5,
+      "target": 11
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Sean Paul",
+      "weight": 0.2889,
+      "source": 5,
+      "target": 12
+    },
+    {
+      "node1": "Ciara",
+      "node2": "OutKast",
+      "weight": 0.2545,
+      "source": 5,
+      "target": 14
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Ke$ha",
+      "weight": 0.2329,
+      "source": 5,
+      "target": 15
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Tyrese",
+      "weight": 0.2174,
+      "source": 5,
+      "target": 16
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Kelis",
+      "weight": 0.4545,
+      "source": 5,
+      "target": 17
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Estelle",
+      "weight": 0.3673,
+      "source": 5,
+      "target": 18
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Nelly",
+      "weight": 0.3478,
+      "source": 5,
+      "target": 19
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Britney Spears",
+      "weight": 0.2169,
+      "source": 5,
+      "target": 20
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Sean Kingston",
+      "weight": 0.3636,
+      "source": 5,
+      "target": 21
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Lady Gaga",
+      "weight": 0.25,
+      "source": 5,
+      "target": 22
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Vitamin C",
+      "weight": 0.1681,
+      "source": 5,
+      "target": 23
+    },
+    {
+      "node1": "Ciara",
+      "node2": "112",
+      "weight": 0.3125,
+      "source": 5,
+      "target": 24
+    },
+    {
+      "node1": "Ciara",
+      "node2": "P!nk",
+      "weight": 0.3542,
+      "source": 5,
+      "target": 25
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Justin Timberlake",
+      "weight": 0.4468,
+      "source": 5,
+      "target": 27
+    },
+    {
+      "node1": "Ciara",
+      "node2": "R. Kelly",
+      "weight": 0.3922,
+      "source": 5,
+      "target": 28
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Lil Jon",
+      "weight": 0.2025,
+      "source": 5,
+      "target": 29
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Dr. Dre",
+      "weight": 0.1667,
+      "source": 5,
+      "target": 30
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Ginuwine",
+      "weight": 0.2857,
+      "source": 5,
+      "target": 31
+    },
+    {
+      "node1": "Ciara",
+      "node2": "T-Pain",
+      "weight": 0.3036,
+      "source": 5,
+      "target": 34
+    },
+    {
+      "node1": "Ciara",
+      "node2": "Ying Yang Twins",
+      "weight": 0.28,
+      "source": 5,
+      "target": 35
+    },
+    {
+      "node1": "Ciara",
+      "node2": "JOE",
+      "weight": 0.2807,
+      "source": 5,
+      "target": 36
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "No Doubt",
+      "weight": 0.1538,
+      "source": 6,
+      "target": 9
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "Junior Senior",
+      "weight": 0.1923,
+      "source": 6,
+      "target": 10
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "Kelis",
+      "weight": 0.1616,
+      "source": 6,
+      "target": 17
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "Britney Spears",
+      "weight": 0.1624,
+      "source": 6,
+      "target": 20
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "Lady Gaga",
+      "weight": 0.1735,
+      "source": 6,
+      "target": 22
+    },
+    {
+      "node1": "Debbie Deb",
+      "node2": "DJ Sammy",
+      "weight": 0.1818,
+      "source": 6,
+      "target": 32
+    },
+    {
+      "node1": "Eminem",
+      "node2": "No Doubt",
+      "weight": 0.1852,
+      "source": 7,
+      "target": 9
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Junior Senior",
+      "weight": 0.1528,
+      "source": 7,
+      "target": 10
+    },
+    {
+      "node1": "Eminem",
+      "node2": "50 Cent",
+      "weight": 0.3617,
+      "source": 7,
+      "target": 11
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Sean Paul",
+      "weight": 0.2683,
+      "source": 7,
+      "target": 12
+    },
+    {
+      "node1": "Eminem",
+      "node2": "OutKast",
+      "weight": 0.2857,
+      "source": 7,
+      "target": 14
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Kelis",
+      "weight": 0.2333,
+      "source": 7,
+      "target": 17
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Estelle",
+      "weight": 0.1509,
+      "source": 7,
+      "target": 18
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Nelly",
+      "weight": 0.3333,
+      "source": 7,
+      "target": 19
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Sean Kingston",
+      "weight": 0.2,
+      "source": 7,
+      "target": 21
+    },
+    {
+      "node1": "Eminem",
+      "node2": "112",
+      "weight": 0.2128,
+      "source": 7,
+      "target": 24
+    },
+    {
+      "node1": "Eminem",
+      "node2": "P!nk",
+      "weight": 0.2041,
+      "source": 7,
+      "target": 25
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Justin Timberlake",
+      "weight": 0.24,
+      "source": 7,
+      "target": 27
+    },
+    {
+      "node1": "Eminem",
+      "node2": "R. Kelly",
+      "weight": 0.25,
+      "source": 7,
+      "target": 28
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Lil Jon",
+      "weight": 0.1558,
+      "source": 7,
+      "target": 29
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Dr. Dre",
+      "weight": 0.28,
+      "source": 7,
+      "target": 30
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Ginuwine",
+      "weight": 0.1786,
+      "source": 7,
+      "target": 31
+    },
+    {
+      "node1": "Eminem",
+      "node2": "T-Pain",
+      "weight": 0.1964,
+      "source": 7,
+      "target": 34
+    },
+    {
+      "node1": "Eminem",
+      "node2": "Ying Yang Twins",
+      "weight": 0.3182,
+      "source": 7,
+      "target": 35
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "50 Cent",
+      "weight": 0.1684,
+      "source": 8,
+      "target": 11
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Sean Paul",
+      "weight": 0.1647,
+      "source": 8,
+      "target": 12
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "OutKast",
+      "weight": 0.1702,
+      "source": 8,
+      "target": 14
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Ke$ha",
+      "weight": 0.2718,
+      "source": 8,
+      "target": 15
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Tyrese",
+      "weight": 0.1792,
+      "source": 8,
+      "target": 16
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Kelis",
+      "weight": 0.3011,
+      "source": 8,
+      "target": 17
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Estelle",
+      "weight": 0.2273,
+      "source": 8,
+      "target": 18
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Nelly",
+      "weight": 0.1977,
+      "source": 8,
+      "target": 19
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Britney Spears",
+      "weight": 0.3524,
+      "source": 8,
+      "target": 20
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Sean Kingston",
+      "weight": 0.1882,
+      "source": 8,
+      "target": 21
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Lady Gaga",
+      "weight": 0.2872,
+      "source": 8,
+      "target": 22
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Vitamin C",
+      "weight": 0.1689,
+      "source": 8,
+      "target": 23
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "112",
+      "weight": 0.1818,
+      "source": 8,
+      "target": 24
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "P!nk",
+      "weight": 0.2619,
+      "source": 8,
+      "target": 25
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Justin Timberlake",
+      "weight": 0.3133,
+      "source": 8,
+      "target": 27
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "R. Kelly",
+      "weight": 0.2584,
+      "source": 8,
+      "target": 28
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "Ginuwine",
+      "weight": 0.1895,
+      "source": 8,
+      "target": 31
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "T-Pain",
+      "weight": 0.1753,
+      "source": 8,
+      "target": 34
+    },
+    {
+      "node1": "Beyoncé",
+      "node2": "JOE",
+      "weight": 0.2128,
+      "source": 8,
+      "target": 36
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Junior Senior",
+      "weight": 0.2025,
+      "source": 9,
+      "target": 10
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Sean Paul",
+      "weight": 0.1636,
+      "source": 9,
+      "target": 12
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "OutKast",
+      "weight": 0.2295,
+      "source": 9,
+      "target": 14
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Ke$ha",
+      "weight": 0.1852,
+      "source": 9,
+      "target": 15
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Kelis",
+      "weight": 0.2464,
+      "source": 9,
+      "target": 17
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Nelly",
+      "weight": 0.1724,
+      "source": 9,
+      "target": 19
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Britney Spears",
+      "weight": 0.1889,
+      "source": 9,
+      "target": 20
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Lady Gaga",
+      "weight": 0.1781,
+      "source": 9,
+      "target": 22
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Vitamin C",
+      "weight": 0.2432,
+      "source": 9,
+      "target": 23
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "P!nk",
+      "weight": 0.3654,
+      "source": 9,
+      "target": 25
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Justin Timberlake",
+      "weight": 0.1562,
+      "source": 9,
+      "target": 27
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "DJ Sammy",
+      "weight": 0.2394,
+      "source": 9,
+      "target": 32
+    },
+    {
+      "node1": "No Doubt",
+      "node2": "Ying Yang Twins",
+      "weight": 0.1864,
+      "source": 9,
+      "target": 35
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Sean Paul",
+      "weight": 0.169,
+      "source": 10,
+      "target": 12
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Alice Deejay",
+      "weight": 0.1558,
+      "source": 10,
+      "target": 13
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "OutKast",
+      "weight": 0.1899,
+      "source": 10,
+      "target": 14
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Ke$ha",
+      "weight": 0.1616,
+      "source": 10,
+      "target": 15
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Kelis",
+      "weight": 0.25,
+      "source": 10,
+      "target": 17
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Britney Spears",
+      "weight": 0.2,
+      "source": 10,
+      "target": 20
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Lady Gaga",
+      "weight": 0.2069,
+      "source": 10,
+      "target": 22
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Vitamin C",
+      "weight": 0.2077,
+      "source": 10,
+      "target": 23
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "P!nk",
+      "weight": 0.1842,
+      "source": 10,
+      "target": 25
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "Justin Timberlake",
+      "weight": 0.1772,
+      "source": 10,
+      "target": 27
+    },
+    {
+      "node1": "Junior Senior",
+      "node2": "DJ Sammy",
+      "weight": 0.2159,
+      "source": 10,
+      "target": 32
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Sean Paul",
+      "weight": 0.2308,
+      "source": 11,
+      "target": 12
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "OutKast",
+      "weight": 0.2295,
+      "source": 11,
+      "target": 14
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Kelis",
+      "weight": 0.1944,
+      "source": 11,
+      "target": 17
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Nelly",
+      "weight": 0.3077,
+      "source": 11,
+      "target": 19
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Britney Spears",
+      "weight": 0.163,
+      "source": 11,
+      "target": 20
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Sean Kingston",
+      "weight": 0.1786,
+      "source": 11,
+      "target": 21
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "112",
+      "weight": 0.1695,
+      "source": 11,
+      "target": 24
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "P!nk",
+      "weight": 0.1639,
+      "source": 11,
+      "target": 25
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Justin Timberlake",
+      "weight": 0.2131,
+      "source": 11,
+      "target": 27
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "R. Kelly",
+      "weight": 0.2222,
+      "source": 11,
+      "target": 28
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Lil Jon",
+      "weight": 0.1744,
+      "source": 11,
+      "target": 29
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Dr. Dre",
+      "weight": 0.2459,
+      "source": 11,
+      "target": 30
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "T-Pain",
+      "weight": 0.2344,
+      "source": 11,
+      "target": 34
+    },
+    {
+      "node1": "50 Cent",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2963,
+      "source": 11,
+      "target": 35
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "OutKast",
+      "weight": 0.3125,
+      "source": 12,
+      "target": 14
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Kelis",
+      "weight": 0.2982,
+      "source": 12,
+      "target": 17
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Estelle",
+      "weight": 0.2449,
+      "source": 12,
+      "target": 18
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Nelly",
+      "weight": 0.4,
+      "source": 12,
+      "target": 19
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Sean Kingston",
+      "weight": 0.4595,
+      "source": 12,
+      "target": 21
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "112",
+      "weight": 0.2955,
+      "source": 12,
+      "target": 24
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "P!nk",
+      "weight": 0.2292,
+      "source": 12,
+      "target": 25
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Justin Timberlake",
+      "weight": 0.2917,
+      "source": 12,
+      "target": 27
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "R. Kelly",
+      "weight": 0.25,
+      "source": 12,
+      "target": 28
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Lil Jon",
+      "weight": 0.1711,
+      "source": 12,
+      "target": 29
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Dr. Dre",
+      "weight": 0.1852,
+      "source": 12,
+      "target": 30
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Ginuwine",
+      "weight": 0.2222,
+      "source": 12,
+      "target": 31
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "T-Pain",
+      "weight": 0.2407,
+      "source": 12,
+      "target": 34
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "Ying Yang Twins",
+      "weight": 0.3488,
+      "source": 12,
+      "target": 35
+    },
+    {
+      "node1": "Sean Paul",
+      "node2": "JOE",
+      "weight": 0.1964,
+      "source": 12,
+      "target": 36
+    },
+    {
+      "node1": "Alice Deejay",
+      "node2": "Britney Spears",
+      "weight": 0.1609,
+      "source": 13,
+      "target": 20
+    },
+    {
+      "node1": "Alice Deejay",
+      "node2": "DJ Sammy",
+      "weight": 0.2812,
+      "source": 13,
+      "target": 32
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Tyrese",
+      "weight": 0.1558,
+      "source": 14,
+      "target": 16
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Kelis",
+      "weight": 0.3281,
+      "source": 14,
+      "target": 17
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Estelle",
+      "weight": 0.1613,
+      "source": 14,
+      "target": 18
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Nelly",
+      "weight": 0.3137,
+      "source": 14,
+      "target": 19
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Britney Spears",
+      "weight": 0.1522,
+      "source": 14,
+      "target": 20
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Sean Kingston",
+      "weight": 0.2037,
+      "source": 14,
+      "target": 21
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Vitamin C",
+      "weight": 0.161,
+      "source": 14,
+      "target": 23
+    },
+    {
+      "node1": "OutKast",
+      "node2": "112",
+      "weight": 0.2364,
+      "source": 14,
+      "target": 24
+    },
+    {
+      "node1": "OutKast",
+      "node2": "P!nk",
+      "weight": 0.25,
+      "source": 14,
+      "target": 25
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Justin Timberlake",
+      "weight": 0.2807,
+      "source": 14,
+      "target": 27
+    },
+    {
+      "node1": "OutKast",
+      "node2": "R. Kelly",
+      "weight": 0.2258,
+      "source": 14,
+      "target": 28
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Lil Jon",
+      "weight": 0.2658,
+      "source": 14,
+      "target": 29
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Dr. Dre",
+      "weight": 0.2295,
+      "source": 14,
+      "target": 30
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Ginuwine",
+      "weight": 0.2031,
+      "source": 14,
+      "target": 31
+    },
+    {
+      "node1": "OutKast",
+      "node2": "T-Pain",
+      "weight": 0.2381,
+      "source": 14,
+      "target": 34
+    },
+    {
+      "node1": "OutKast",
+      "node2": "Ying Yang Twins",
+      "weight": 0.38,
+      "source": 14,
+      "target": 35
+    },
+    {
+      "node1": "OutKast",
+      "node2": "JOE",
+      "weight": 0.2,
+      "source": 14,
+      "target": 36
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "Kelis",
+      "weight": 0.2771,
+      "source": 15,
+      "target": 17
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "Britney Spears",
+      "weight": 0.3656,
+      "source": 15,
+      "target": 20
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "Lady Gaga",
+      "weight": 0.4133,
+      "source": 15,
+      "target": 22
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "Vitamin C",
+      "weight": 0.197,
+      "source": 15,
+      "target": 23
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "P!nk",
+      "weight": 0.2817,
+      "source": 15,
+      "target": 25
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "Justin Timberlake",
+      "weight": 0.2208,
+      "source": 15,
+      "target": 27
+    },
+    {
+      "node1": "Ke$ha",
+      "node2": "DJ Sammy",
+      "weight": 0.1613,
+      "source": 15,
+      "target": 32
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Kelis",
+      "weight": 0.2346,
+      "source": 16,
+      "target": 17
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Estelle",
+      "weight": 0.2254,
+      "source": 16,
+      "target": 18
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Nelly",
+      "weight": 0.2059,
+      "source": 16,
+      "target": 19
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Sean Kingston",
+      "weight": 0.194,
+      "source": 16,
+      "target": 21
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "112",
+      "weight": 0.3175,
+      "source": 16,
+      "target": 24
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Justin Timberlake",
+      "weight": 0.2941,
+      "source": 16,
+      "target": 27
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "R. Kelly",
+      "weight": 0.3188,
+      "source": 16,
+      "target": 28
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "Ginuwine",
+      "weight": 0.3529,
+      "source": 16,
+      "target": 31
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "T-Pain",
+      "weight": 0.1923,
+      "source": 16,
+      "target": 34
+    },
+    {
+      "node1": "Tyrese",
+      "node2": "JOE",
+      "weight": 0.3881,
+      "source": 16,
+      "target": 36
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Estelle",
+      "weight": 0.3387,
+      "source": 17,
+      "target": 18
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Nelly",
+      "weight": 0.2787,
+      "source": 17,
+      "target": 19
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Britney Spears",
+      "weight": 0.2581,
+      "source": 17,
+      "target": 20
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Sean Kingston",
+      "weight": 0.2459,
+      "source": 17,
+      "target": 21
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Lady Gaga",
+      "weight": 0.2632,
+      "source": 17,
+      "target": 22
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Vitamin C",
+      "weight": 0.2131,
+      "source": 17,
+      "target": 23
+    },
+    {
+      "node1": "Kelis",
+      "node2": "112",
+      "weight": 0.2951,
+      "source": 17,
+      "target": 24
+    },
+    {
+      "node1": "Kelis",
+      "node2": "P!nk",
+      "weight": 0.3279,
+      "source": 17,
+      "target": 25
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Justin Timberlake",
+      "weight": 0.3548,
+      "source": 17,
+      "target": 27
+    },
+    {
+      "node1": "Kelis",
+      "node2": "R. Kelly",
+      "weight": 0.3594,
+      "source": 17,
+      "target": 28
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Lil Jon",
+      "weight": 0.1562,
+      "source": 17,
+      "target": 29
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Dr. Dre",
+      "weight": 0.1781,
+      "source": 17,
+      "target": 30
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Ginuwine",
+      "weight": 0.2941,
+      "source": 17,
+      "target": 31
+    },
+    {
+      "node1": "Kelis",
+      "node2": "DJ Sammy",
+      "weight": 0.2099,
+      "source": 17,
+      "target": 32
+    },
+    {
+      "node1": "Kelis",
+      "node2": "T-Pain",
+      "weight": 0.2027,
+      "source": 17,
+      "target": 34
+    },
+    {
+      "node1": "Kelis",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2121,
+      "source": 17,
+      "target": 35
+    },
+    {
+      "node1": "Kelis",
+      "node2": "JOE",
+      "weight": 0.3088,
+      "source": 17,
+      "target": 36
+    },
+    {
+      "node1": "Estelle",
+      "node2": "Nelly",
+      "weight": 0.2745,
+      "source": 18,
+      "target": 19
+    },
+    {
+      "node1": "Estelle",
+      "node2": "Sean Kingston",
+      "weight": 0.2353,
+      "source": 18,
+      "target": 21
+    },
+    {
+      "node1": "Estelle",
+      "node2": "112",
+      "weight": 0.2941,
+      "source": 18,
+      "target": 24
+    },
+    {
+      "node1": "Estelle",
+      "node2": "P!nk",
+      "weight": 0.2143,
+      "source": 18,
+      "target": 25
+    },
+    {
+      "node1": "Estelle",
+      "node2": "Justin Timberlake",
+      "weight": 0.3148,
+      "source": 18,
+      "target": 27
+    },
+    {
+      "node1": "Estelle",
+      "node2": "R. Kelly",
+      "weight": 0.2759,
+      "source": 18,
+      "target": 28
+    },
+    {
+      "node1": "Estelle",
+      "node2": "Ginuwine",
+      "weight": 0.2931,
+      "source": 18,
+      "target": 31
+    },
+    {
+      "node1": "Estelle",
+      "node2": "T-Pain",
+      "weight": 0.2063,
+      "source": 18,
+      "target": 34
+    },
+    {
+      "node1": "Estelle",
+      "node2": "Ying Yang Twins",
+      "weight": 0.1754,
+      "source": 18,
+      "target": 35
+    },
+    {
+      "node1": "Estelle",
+      "node2": "JOE",
+      "weight": 0.2667,
+      "source": 18,
+      "target": 36
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Sean Kingston",
+      "weight": 0.3182,
+      "source": 19,
+      "target": 21
+    },
+    {
+      "node1": "Nelly",
+      "node2": "112",
+      "weight": 0.3864,
+      "source": 19,
+      "target": 24
+    },
+    {
+      "node1": "Nelly",
+      "node2": "P!nk",
+      "weight": 0.2353,
+      "source": 19,
+      "target": 25
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Justin Timberlake",
+      "weight": 0.32,
+      "source": 19,
+      "target": 27
+    },
+    {
+      "node1": "Nelly",
+      "node2": "R. Kelly",
+      "weight": 0.3269,
+      "source": 19,
+      "target": 28
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Lil Jon",
+      "weight": 0.2237,
+      "source": 19,
+      "target": 29
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Dr. Dre",
+      "weight": 0.2143,
+      "source": 19,
+      "target": 30
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Ginuwine",
+      "weight": 0.2727,
+      "source": 19,
+      "target": 31
+    },
+    {
+      "node1": "Nelly",
+      "node2": "T-Pain",
+      "weight": 0.3654,
+      "source": 19,
+      "target": 34
+    },
+    {
+      "node1": "Nelly",
+      "node2": "Ying Yang Twins",
+      "weight": 0.4419,
+      "source": 19,
+      "target": 35
+    },
+    {
+      "node1": "Nelly",
+      "node2": "JOE",
+      "weight": 0.2456,
+      "source": 19,
+      "target": 36
+    },
+    {
+      "node1": "Britney Spears",
+      "node2": "Lady Gaga",
+      "weight": 0.4096,
+      "source": 20,
+      "target": 22
+    },
+    {
+      "node1": "Britney Spears",
+      "node2": "Vitamin C",
+      "weight": 0.2246,
+      "source": 20,
+      "target": 23
+    },
+    {
+      "node1": "Britney Spears",
+      "node2": "P!nk",
+      "weight": 0.3077,
+      "source": 20,
+      "target": 25
+    },
+    {
+      "node1": "Britney Spears",
+      "node2": "Justin Timberlake",
+      "weight": 0.2353,
+      "source": 20,
+      "target": 27
+    },
+    {
+      "node1": "Britney Spears",
+      "node2": "DJ Sammy",
+      "weight": 0.1782,
+      "source": 20,
+      "target": 32
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "112",
+      "weight": 0.3409,
+      "source": 21,
+      "target": 24
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "P!nk",
+      "weight": 0.1961,
+      "source": 21,
+      "target": 25
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "Justin Timberlake",
+      "weight": 0.28,
+      "source": 21,
+      "target": 27
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "R. Kelly",
+      "weight": 0.2885,
+      "source": 21,
+      "target": 28
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "Lil Jon",
+      "weight": 0.1667,
+      "source": 21,
+      "target": 29
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "Dr. Dre",
+      "weight": 0.1579,
+      "source": 21,
+      "target": 30
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "Ginuwine",
+      "weight": 0.2593,
+      "source": 21,
+      "target": 31
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "T-Pain",
+      "weight": 0.2545,
+      "source": 21,
+      "target": 34
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "Ying Yang Twins",
+      "weight": 0.3043,
+      "source": 21,
+      "target": 35
+    },
+    {
+      "node1": "Sean Kingston",
+      "node2": "JOE",
+      "weight": 0.2321,
+      "source": 21,
+      "target": 36
+    },
+    {
+      "node1": "Lady Gaga",
+      "node2": "Vitamin C",
+      "weight": 0.1935,
+      "source": 22,
+      "target": 23
+    },
+    {
+      "node1": "Lady Gaga",
+      "node2": "P!nk",
+      "weight": 0.2656,
+      "source": 22,
+      "target": 25
+    },
+    {
+      "node1": "Lady Gaga",
+      "node2": "Justin Timberlake",
+      "weight": 0.2537,
+      "source": 22,
+      "target": 27
+    },
+    {
+      "node1": "Lady Gaga",
+      "node2": "DJ Sammy",
+      "weight": 0.1807,
+      "source": 22,
+      "target": 32
+    },
+    {
+      "node1": "Vitamin C",
+      "node2": "P!nk",
+      "weight": 0.2091,
+      "source": 23,
+      "target": 25
+    },
+    {
+      "node1": "Vitamin C",
+      "node2": "Justin Timberlake",
+      "weight": 0.1826,
+      "source": 23,
+      "target": 27
+    },
+    {
+      "node1": "Vitamin C",
+      "node2": "DJ Sammy",
+      "weight": 0.1719,
+      "source": 23,
+      "target": 32
+    },
+    {
+      "node1": "112",
+      "node2": "P!nk",
+      "weight": 0.2075,
+      "source": 24,
+      "target": 25
+    },
+    {
+      "node1": "112",
+      "node2": "Justin Timberlake",
+      "weight": 0.3673,
+      "source": 24,
+      "target": 27
+    },
+    {
+      "node1": "112",
+      "node2": "R. Kelly",
+      "weight": 0.3462,
+      "source": 24,
+      "target": 28
+    },
+    {
+      "node1": "112",
+      "node2": "Dr. Dre",
+      "weight": 0.1695,
+      "source": 24,
+      "target": 30
+    },
+    {
+      "node1": "112",
+      "node2": "Ginuwine",
+      "weight": 0.3922,
+      "source": 24,
+      "target": 31
+    },
+    {
+      "node1": "112",
+      "node2": "T-Pain",
+      "weight": 0.2414,
+      "source": 24,
+      "target": 34
+    },
+    {
+      "node1": "112",
+      "node2": "Ying Yang Twins",
+      "weight": 0.3125,
+      "source": 24,
+      "target": 35
+    },
+    {
+      "node1": "112",
+      "node2": "JOE",
+      "weight": 0.3846,
+      "source": 24,
+      "target": 36
+    },
+    {
+      "node1": "P!nk",
+      "node2": "Justin Timberlake",
+      "weight": 0.3019,
+      "source": 25,
+      "target": 27
+    },
+    {
+      "node1": "P!nk",
+      "node2": "R. Kelly",
+      "weight": 0.2,
+      "source": 25,
+      "target": 28
+    },
+    {
+      "node1": "P!nk",
+      "node2": "Ginuwine",
+      "weight": 0.1774,
+      "source": 25,
+      "target": 31
+    },
+    {
+      "node1": "P!nk",
+      "node2": "DJ Sammy",
+      "weight": 0.1857,
+      "source": 25,
+      "target": 32
+    },
+    {
+      "node1": "P!nk",
+      "node2": "T-Pain",
+      "weight": 0.1562,
+      "source": 25,
+      "target": 34
+    },
+    {
+      "node1": "P!nk",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2264,
+      "source": 25,
+      "target": 35
+    },
+    {
+      "node1": "P!nk",
+      "node2": "JOE",
+      "weight": 0.1935,
+      "source": 25,
+      "target": 36
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "R. Kelly",
+      "weight": 0.3636,
+      "source": 27,
+      "target": 28
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "Lil Jon",
+      "weight": 0.1512,
+      "source": 27,
+      "target": 29
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "Dr. Dre",
+      "weight": 0.1935,
+      "source": 27,
+      "target": 30
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "Ginuwine",
+      "weight": 0.3818,
+      "source": 27,
+      "target": 31
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "T-Pain",
+      "weight": 0.2833,
+      "source": 27,
+      "target": 34
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2364,
+      "source": 27,
+      "target": 35
+    },
+    {
+      "node1": "Justin Timberlake",
+      "node2": "JOE",
+      "weight": 0.3276,
+      "source": 27,
+      "target": 36
+    },
+    {
+      "node1": "R. Kelly",
+      "node2": "Dr. Dre",
+      "weight": 0.1846,
+      "source": 28,
+      "target": 30
+    },
+    {
+      "node1": "R. Kelly",
+      "node2": "Ginuwine",
+      "weight": 0.4107,
+      "source": 28,
+      "target": 31
+    },
+    {
+      "node1": "R. Kelly",
+      "node2": "T-Pain",
+      "weight": 0.3115,
+      "source": 28,
+      "target": 34
+    },
+    {
+      "node1": "R. Kelly",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2241,
+      "source": 28,
+      "target": 35
+    },
+    {
+      "node1": "R. Kelly",
+      "node2": "JOE",
+      "weight": 0.3559,
+      "source": 28,
+      "target": 36
+    },
+    {
+      "node1": "Lil Jon",
+      "node2": "T-Pain",
+      "weight": 0.1818,
+      "source": 29,
+      "target": 34
+    },
+    {
+      "node1": "Lil Jon",
+      "node2": "Ying Yang Twins",
+      "weight": 0.25,
+      "source": 29,
+      "target": 35
+    },
+    {
+      "node1": "Dr. Dre",
+      "node2": "T-Pain",
+      "weight": 0.1618,
+      "source": 30,
+      "target": 34
+    },
+    {
+      "node1": "Dr. Dre",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2281,
+      "source": 30,
+      "target": 35
+    },
+    {
+      "node1": "Ginuwine",
+      "node2": "T-Pain",
+      "weight": 0.2857,
+      "source": 31,
+      "target": 34
+    },
+    {
+      "node1": "Ginuwine",
+      "node2": "Ying Yang Twins",
+      "weight": 0.1803,
+      "source": 31,
+      "target": 35
+    },
+    {
+      "node1": "Ginuwine",
+      "node2": "JOE",
+      "weight": 0.4727,
+      "source": 31,
+      "target": 36
+    },
+    {
+      "node1": "T-Pain",
+      "node2": "Ying Yang Twins",
+      "weight": 0.2586,
+      "source": 34,
+      "target": 35
+    },
+    {
+      "node1": "T-Pain",
+      "node2": "JOE",
+      "weight": 0.2424,
+      "source": 34,
+      "target": 36
+    }
+  ]
+} 
